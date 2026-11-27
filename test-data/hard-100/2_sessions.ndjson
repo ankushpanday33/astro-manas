@@ -1,0 +1,1486 @@
+{"uid": "U001", "opened_at": "08/10/2026 12:50", "duration": "abc", "screen": "CHAT"}
+{"uid": "U001", "opened_at": "2026-11-09T17:05:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U001", "opened_at": "2026-11-14T06:06:00", "duration": "3", "screen": "panchang"}
+{"uid": "U001", "opened_at": "12/11/2026 20:13", "duration": 7, "screen": "CHAT"}
+{"uid": "U001", "opened_at": "2026-11-16T15:05:00", "duration": 7, "screen": "panchang"}
+{"uid": "U001", "opened_at": "2026-10-12T22:43:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U001", "opened_at": "18/11/2026 09:01", "duration": "", "screen": "panchang"}
+{"uid": "U001", "opened_at": "2026-11-24T11:35:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U001", "opened_at": "2026-11-12T21:42:00", "duration": 25, "screen": "panchang"}
+{"uid": "U001", "opened_at": "05/11/2026 17:20", "duration": 7, "screen": "panchang"}
+{"uid": "U001", "opened_at": "2026-11-10T21:56:00", "duration": "", "screen": "panchang"}
+{"uid": "U001", "opened_at": "2026-11-24T21:08:00", "duration": "12", "screen": "panchang"}
+{"uid": "U001", "opened_at": "06/10/2026 17:16", "duration": "1", "screen": "panchang"}
+{"uid": "U001", "opened_at": "2026-11-14T17:17:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "01/11/2026 15:13", "duration": 7, "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-10-05T19:55:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-11T22:43:00", "duration": 7, "screen": "panchang"}
+{"uid": "U002", "opened_at": "27/10/2026 08:54", "duration": 7, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-19T16:31:00", "duration": "", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-11-05T17:11:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "06/10/2026 11:48", "duration": "", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-24T18:40:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-11-13T06:29:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "30/10/2026 22:54", "duration": 7, "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-10-25T12:50:00", "duration": "1", "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-08T21:08:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "04/10/2026 16:23", "duration": 25, "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-23T12:09:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-12T10:46:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "06/10/2026 07:51", "duration": 25, "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-11-09T15:52:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-11-09T17:08:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "15/11/2026 07:48", "duration": "3", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-11-17T19:41:00", "duration": 7, "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-23T06:19:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "03/11/2026 08:29", "duration": 25, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-31T10:57:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-10-12T22:02:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "23/11/2026 09:22", "duration": 7, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-13T14:21:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-11-16T22:12:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "30/10/2026 19:12", "duration": "1", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-11-11T13:42:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-11-03T11:34:00", "duration": "1", "screen": "panchang"}
+{"uid": "U002", "opened_at": "11/10/2026 19:29", "duration": "1", "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-12T12:19:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U002", "opened_at": "2026-10-29T21:05:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U002", "opened_at": "14/11/2026 09:48", "duration": "12", "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-12T11:07:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "2026-10-16T19:12:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U002", "opened_at": "22/10/2026 10:41", "duration": 25, "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-11-08T17:25:00", "duration": "12", "screen": "panchang"}
+{"uid": "U002", "opened_at": "2026-10-24T20:56:00", "duration": "", "screen": "panchang"}
+{"uid": "U002", "opened_at": "26/10/2026 10:06", "duration": "1", "screen": "Horoscope"}
+{"uid": "U003", "opened_at": "22/10/2026 13:22", "duration": "abc", "screen": "panchang"}
+{"uid": "U003", "opened_at": "2026-10-19T07:59:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U003", "opened_at": "2026-10-22T16:48:00", "duration": "", "screen": "CHAT"}
+{"uid": "U003", "opened_at": "21/11/2026 20:29", "duration": "", "screen": "CHAT"}
+{"uid": "U003", "opened_at": "2026-10-05T22:52:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U003", "opened_at": "2026-10-05T14:18:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U003", "opened_at": "20/10/2026 07:04", "duration": 7, "screen": "panchang"}
+{"uid": "U003", "opened_at": "2026-10-21T09:24:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U003", "opened_at": "2026-10-06T20:39:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U003", "opened_at": "25/11/2026 10:57", "duration": "", "screen": "Horoscope"}
+{"uid": "U003", "opened_at": "2026-11-25T09:25:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U003", "opened_at": "2026-10-23T14:01:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U003", "opened_at": "22/11/2026 22:07", "duration": 25, "screen": "panchang"}
+{"uid": "U003", "opened_at": "2026-10-12T10:19:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U004", "opened_at": "06/11/2026 20:44", "duration": "3", "screen": "panchang"}
+{"uid": "U004", "opened_at": "2026-11-11T22:55:00", "duration": "1", "screen": "panchang"}
+{"uid": "U004", "opened_at": "2026-10-31T07:31:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U004", "opened_at": "15/11/2026 20:12", "duration": "1", "screen": "Horoscope"}
+{"uid": "U004", "opened_at": "2026-10-20T21:37:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U004", "opened_at": "2026-10-24T06:31:00", "duration": "3", "screen": "panchang"}
+{"uid": "U004", "opened_at": "11/10/2026 07:33", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U004", "opened_at": "2026-11-08T13:55:00", "duration": 7, "screen": "panchang"}
+{"uid": "U004", "opened_at": "2026-11-09T19:55:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U004", "opened_at": "25/11/2026 17:38", "duration": "1", "screen": "CHAT"}
+{"uid": "U004", "opened_at": "2026-11-16T22:07:00", "duration": 7, "screen": "panchang"}
+{"uid": "U004", "opened_at": "2026-10-06T12:37:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U004", "opened_at": "16/11/2026 20:25", "duration": "1", "screen": "Horoscope"}
+{"uid": "U004", "opened_at": "2026-10-06T09:51:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U005", "opened_at": "26/11/2026 13:12", "duration": "12", "screen": "panchang"}
+{"uid": "U005", "opened_at": "2026-10-09T11:33:00", "duration": "", "screen": "panchang"}
+{"uid": "U005", "opened_at": "2026-11-21T14:10:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "12/10/2026 09:57", "duration": "abc", "screen": "CHAT"}
+{"uid": "U005", "opened_at": "2026-10-15T07:22:00", "duration": 25, "screen": "panchang"}
+{"uid": "U005", "opened_at": "2026-10-04T22:40:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "16/10/2026 21:03", "duration": "", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "2026-11-16T08:17:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "2026-11-08T07:30:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "13/10/2026 11:35", "duration": 25, "screen": "CHAT"}
+{"uid": "U005", "opened_at": "2026-10-20T13:31:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "2026-10-23T17:14:00", "duration": 7, "screen": "panchang"}
+{"uid": "U005", "opened_at": "28/10/2026 08:15", "duration": "12", "screen": "Horoscope"}
+{"uid": "U005", "opened_at": "2026-10-31T18:35:00", "duration": "12", "screen": "panchang"}
+{"uid": "U006", "opened_at": "02/10/2026 11:10", "duration": "3", "screen": "Horoscope"}
+{"uid": "U006", "opened_at": "2026-10-06T12:32:00", "duration": "1", "screen": "panchang"}
+{"uid": "U006", "opened_at": "2026-10-11T14:41:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U006", "opened_at": "09/10/2026 08:01", "duration": "", "screen": "Horoscope"}
+{"uid": "U007", "opened_at": "10/10/2026 10:36", "duration": "1", "screen": "CHAT"}
+{"uid": "U007", "opened_at": "2026-10-08T13:52:00", "duration": "1", "screen": "panchang"}
+{"uid": "U007", "opened_at": "2026-10-13T10:43:00", "duration": "1", "screen": "panchang"}
+{"uid": "U008", "opened_at": "15/11/2026 21:35", "duration": "12", "screen": "Horoscope"}
+{"uid": "U008", "opened_at": "2026-11-26T18:05:00", "duration": 25, "screen": "panchang"}
+{"uid": "U008", "opened_at": "2026-10-17T19:42:00", "duration": 7, "screen": "panchang"}
+{"uid": "U008", "opened_at": "25/10/2026 17:05", "duration": 25, "screen": "CHAT"}
+{"uid": "U008", "opened_at": "2026-10-20T06:41:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U008", "opened_at": "2026-11-19T18:56:00", "duration": "3", "screen": "panchang"}
+{"uid": "U008", "opened_at": "19/10/2026 11:19", "duration": 25, "screen": "CHAT"}
+{"uid": "U008", "opened_at": "2026-11-26T06:21:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U008", "opened_at": "2026-10-12T20:37:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U008", "opened_at": "15/10/2026 21:48", "duration": "3", "screen": "CHAT"}
+{"uid": "U008", "opened_at": "2026-10-25T21:07:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U008", "opened_at": "2026-11-26T22:19:00", "duration": "3", "screen": "panchang"}
+{"uid": "U008", "opened_at": "10/11/2026 06:28", "duration": 7, "screen": "panchang"}
+{"uid": "U008", "opened_at": "2026-11-17T18:40:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U009", "opened_at": "29/10/2026 09:06", "duration": "3", "screen": "panchang"}
+{"uid": "U009", "opened_at": "2026-10-29T08:54:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U009", "opened_at": "2026-10-29T20:46:00", "duration": "1", "screen": "panchang"}
+{"uid": "U009", "opened_at": "10/11/2026 20:47", "duration": 7, "screen": "panchang"}
+{"uid": "U009", "opened_at": "2026-10-27T15:55:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U009", "opened_at": "2026-11-20T06:13:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U009", "opened_at": "08/11/2026 18:14", "duration": "1", "screen": "CHAT"}
+{"uid": "U009", "opened_at": "2026-10-15T16:10:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U009", "opened_at": "2026-11-12T18:08:00", "duration": 7, "screen": "panchang"}
+{"uid": "U009", "opened_at": "16/10/2026 18:13", "duration": 7, "screen": "CHAT"}
+{"uid": "U009", "opened_at": "2026-11-07T18:44:00", "duration": "", "screen": "panchang"}
+{"uid": "U009", "opened_at": "2026-10-29T13:11:00", "duration": 7, "screen": "panchang"}
+{"uid": "U009", "opened_at": "24/11/2026 12:19", "duration": "3", "screen": "panchang"}
+{"uid": "U009", "opened_at": "2026-10-15T10:28:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "26/10/2026 07:39", "duration": "", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-11-24T22:21:00", "duration": 7, "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-04T19:14:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U010", "opened_at": "23/10/2026 22:18", "duration": "1", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-10-04T22:22:00", "duration": "1", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-09T18:33:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "31/10/2026 22:27", "duration": "abc", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-11-03T13:35:00", "duration": 7, "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-11-04T06:06:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "15/11/2026 21:39", "duration": "abc", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-05T11:27:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-11-03T06:34:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "19/11/2026 12:25", "duration": "12", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-19T17:40:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-11-20T19:15:00", "duration": "", "screen": "panchang"}
+{"uid": "U010", "opened_at": "26/11/2026 09:56", "duration": "12", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-15T10:29:00", "duration": 25, "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-11-20T09:52:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "06/10/2026 21:21", "duration": 7, "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-11-19T08:22:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-10-29T20:54:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "07/10/2026 19:48", "duration": "3", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-11-25T20:27:00", "duration": "12", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-26T07:28:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U010", "opened_at": "10/10/2026 09:03", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-10-30T08:16:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-10-24T13:27:00", "duration": "12", "screen": "panchang"}
+{"uid": "U010", "opened_at": "16/11/2026 06:54", "duration": "3", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-10-19T15:16:00", "duration": "1", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-07T09:44:00", "duration": "3", "screen": "panchang"}
+{"uid": "U010", "opened_at": "09/10/2026 08:26", "duration": 25, "screen": "Horoscope"}
+{"uid": "U010", "opened_at": "2026-10-21T14:20:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-10-20T15:14:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U010", "opened_at": "24/10/2026 11:33", "duration": "abc", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-11-24T14:33:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U010", "opened_at": "2026-10-31T14:13:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U010", "opened_at": "20/10/2026 20:10", "duration": "", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-11-07T14:19:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "2026-11-11T06:58:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U010", "opened_at": "19/10/2026 16:44", "duration": "", "screen": "CHAT"}
+{"uid": "U011", "opened_at": "17/10/2026 09:42", "duration": "", "screen": "panchang"}
+{"uid": "U011", "opened_at": "2026-10-16T19:39:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U011", "opened_at": "2026-11-02T09:23:00", "duration": "1", "screen": "panchang"}
+{"uid": "U011", "opened_at": "09/10/2026 20:37", "duration": "", "screen": "CHAT"}
+{"uid": "U011", "opened_at": "2026-11-02T17:00:00", "duration": "1", "screen": "panchang"}
+{"uid": "U011", "opened_at": "2026-11-02T17:50:00", "duration": "", "screen": "panchang"}
+{"uid": "U011", "opened_at": "26/11/2026 17:26", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U011", "opened_at": "2026-10-19T06:55:00", "duration": 25, "screen": "panchang"}
+{"uid": "U011", "opened_at": "2026-10-23T07:07:00", "duration": "1", "screen": "panchang"}
+{"uid": "U011", "opened_at": "30/10/2026 14:24", "duration": "", "screen": "CHAT"}
+{"uid": "U011", "opened_at": "2026-11-10T06:13:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U011", "opened_at": "2026-11-22T13:11:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U011", "opened_at": "03/11/2026 20:06", "duration": 25, "screen": "CHAT"}
+{"uid": "U011", "opened_at": "2026-10-23T22:40:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U012", "opened_at": "08/11/2026 10:06", "duration": "1", "screen": "panchang"}
+{"uid": "U012", "opened_at": "2026-11-12T09:44:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U012", "opened_at": "2026-10-07T08:37:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U012", "opened_at": "11/10/2026 18:02", "duration": "3", "screen": "panchang"}
+{"uid": "U012", "opened_at": "2026-10-04T06:48:00", "duration": "1", "screen": "panchang"}
+{"uid": "U012", "opened_at": "2026-10-31T17:35:00", "duration": 25, "screen": "panchang"}
+{"uid": "U012", "opened_at": "14/11/2026 07:26", "duration": "", "screen": "Horoscope"}
+{"uid": "U012", "opened_at": "2026-11-09T11:38:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U012", "opened_at": "2026-11-23T08:29:00", "duration": 7, "screen": "panchang"}
+{"uid": "U012", "opened_at": "05/10/2026 21:28", "duration": 25, "screen": "CHAT"}
+{"uid": "U012", "opened_at": "2026-11-17T06:18:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U012", "opened_at": "2026-10-07T10:27:00", "duration": "3", "screen": "panchang"}
+{"uid": "U012", "opened_at": "10/10/2026 20:33", "duration": 7, "screen": "Horoscope"}
+{"uid": "U012", "opened_at": "2026-11-13T16:10:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U013", "opened_at": "08/11/2026 06:56", "duration": "12", "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "2026-10-28T18:04:00", "duration": "", "screen": "panchang"}
+{"uid": "U013", "opened_at": "2026-11-22T06:23:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U013", "opened_at": "21/11/2026 14:35", "duration": "3", "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "2026-11-05T14:05:00", "duration": "", "screen": "CHAT"}
+{"uid": "U013", "opened_at": "2026-10-22T09:52:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "13/10/2026 13:29", "duration": 7, "screen": "panchang"}
+{"uid": "U013", "opened_at": "2026-10-07T10:10:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "2026-10-22T14:43:00", "duration": "12", "screen": "panchang"}
+{"uid": "U013", "opened_at": "10/11/2026 21:23", "duration": "3", "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "2026-10-09T11:23:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U013", "opened_at": "2026-10-17T10:39:00", "duration": "", "screen": "CHAT"}
+{"uid": "U013", "opened_at": "23/11/2026 17:54", "duration": "3", "screen": "CHAT"}
+{"uid": "U013", "opened_at": "2026-11-09T21:40:00", "duration": "12", "screen": "panchang"}
+{"uid": "U014", "opened_at": "19/10/2026 14:29", "duration": "abc", "screen": "CHAT"}
+{"uid": "U014", "opened_at": "2026-10-20T12:19:00", "duration": "12", "screen": "panchang"}
+{"uid": "U014", "opened_at": "2026-10-02T19:04:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U014", "opened_at": "14/10/2026 15:08", "duration": 25, "screen": "Horoscope"}
+{"uid": "U015", "opened_at": "22/11/2026 15:48", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U015", "opened_at": "2026-11-14T12:59:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U015", "opened_at": "2026-11-25T16:12:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U016", "opened_at": "04/10/2026 16:06", "duration": "", "screen": "panchang"}
+{"uid": "U016", "opened_at": "2026-10-24T19:43:00", "duration": "", "screen": "CHAT"}
+{"uid": "U016", "opened_at": "2026-10-10T13:02:00", "duration": "", "screen": "CHAT"}
+{"uid": "U016", "opened_at": "21/10/2026 21:59", "duration": 25, "screen": "panchang"}
+{"uid": "U016", "opened_at": "2026-10-13T19:03:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U016", "opened_at": "2026-11-05T17:12:00", "duration": 7, "screen": "panchang"}
+{"uid": "U016", "opened_at": "22/10/2026 22:22", "duration": "1", "screen": "panchang"}
+{"uid": "U016", "opened_at": "2026-10-23T08:40:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U016", "opened_at": "2026-10-30T20:59:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U016", "opened_at": "16/10/2026 07:30", "duration": "3", "screen": "CHAT"}
+{"uid": "U016", "opened_at": "2026-10-27T18:07:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U016", "opened_at": "2026-11-04T09:16:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U016", "opened_at": "30/10/2026 13:41", "duration": "3", "screen": "panchang"}
+{"uid": "U016", "opened_at": "2026-11-13T20:43:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U017", "opened_at": "24/11/2026 22:30", "duration": "", "screen": "Horoscope"}
+{"uid": "U017", "opened_at": "2026-11-01T10:52:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U017", "opened_at": "2026-10-19T15:11:00", "duration": "", "screen": "panchang"}
+{"uid": "U017", "opened_at": "08/11/2026 19:52", "duration": "abc", "screen": "CHAT"}
+{"uid": "U017", "opened_at": "2026-10-30T12:05:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U017", "opened_at": "2026-10-03T17:55:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U017", "opened_at": "23/10/2026 21:16", "duration": "1", "screen": "panchang"}
+{"uid": "U017", "opened_at": "2026-10-12T13:46:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U017", "opened_at": "2026-10-03T16:35:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U017", "opened_at": "10/10/2026 14:11", "duration": "12", "screen": "panchang"}
+{"uid": "U017", "opened_at": "2026-11-15T13:46:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U017", "opened_at": "2026-11-07T19:29:00", "duration": "1", "screen": "panchang"}
+{"uid": "U017", "opened_at": "24/11/2026 14:54", "duration": 25, "screen": "panchang"}
+{"uid": "U017", "opened_at": "2026-10-13T08:40:00", "duration": "12", "screen": "panchang"}
+{"uid": "U018", "opened_at": "04/10/2026 20:21", "duration": 25, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-09T18:56:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-10-30T16:26:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "13/10/2026 14:07", "duration": 25, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-24T10:15:00", "duration": "", "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-11-06T13:16:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U018", "opened_at": "09/11/2026 06:43", "duration": "", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-21T14:49:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-10-28T22:48:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U018", "opened_at": "22/11/2026 10:17", "duration": "1", "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-11-01T06:11:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-18T17:25:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U018", "opened_at": "13/10/2026 06:47", "duration": 7, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-22T07:56:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-11-24T16:40:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "25/11/2026 21:03", "duration": "1", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-20T09:28:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-14T10:31:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "24/11/2026 17:28", "duration": "12", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-24T15:33:00", "duration": 7, "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-10-29T22:44:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "31/10/2026 18:54", "duration": "12", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-07T18:15:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-21T06:11:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "25/10/2026 13:02", "duration": "12", "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-11-26T12:00:00", "duration": "12", "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-11-16T18:12:00", "duration": "1", "screen": "panchang"}
+{"uid": "U018", "opened_at": "21/11/2026 19:31", "duration": "12", "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-11-04T11:52:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-11-24T08:56:00", "duration": "3", "screen": "panchang"}
+{"uid": "U018", "opened_at": "29/10/2026 07:32", "duration": 25, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-07T10:49:00", "duration": 7, "screen": "panchang"}
+{"uid": "U018", "opened_at": "2026-10-27T06:55:00", "duration": "", "screen": "panchang"}
+{"uid": "U018", "opened_at": "19/10/2026 11:37", "duration": 25, "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-11-16T12:38:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-11-22T12:12:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "04/10/2026 10:31", "duration": 25, "screen": "Horoscope"}
+{"uid": "U018", "opened_at": "2026-10-25T19:07:00", "duration": "", "screen": "CHAT"}
+{"uid": "U018", "opened_at": "2026-11-19T10:52:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U018", "opened_at": "19/10/2026 09:58", "duration": "", "screen": "panchang"}
+{"uid": "U019", "opened_at": "25/11/2026 18:30", "duration": "1", "screen": "panchang"}
+{"uid": "U019", "opened_at": "2026-11-06T14:34:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "2026-10-30T18:14:00", "duration": "1", "screen": "panchang"}
+{"uid": "U019", "opened_at": "20/11/2026 18:31", "duration": "abc", "screen": "CHAT"}
+{"uid": "U019", "opened_at": "2026-11-17T16:37:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "2026-11-10T08:08:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "28/10/2026 11:24", "duration": "", "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "2026-10-05T19:25:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "2026-10-24T11:36:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U019", "opened_at": "03/10/2026 11:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U019", "opened_at": "2026-10-12T10:45:00", "duration": 25, "screen": "panchang"}
+{"uid": "U019", "opened_at": "2026-11-17T10:01:00", "duration": 25, "screen": "panchang"}
+{"uid": "U019", "opened_at": "18/11/2026 18:10", "duration": 7, "screen": "Horoscope"}
+{"uid": "U019", "opened_at": "2026-10-28T06:50:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U020", "opened_at": "17/10/2026 17:02", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "2026-10-16T09:34:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U020", "opened_at": "2026-10-15T20:00:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "06/11/2026 09:29", "duration": 7, "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "2026-10-05T09:14:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U020", "opened_at": "2026-10-17T10:21:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "02/11/2026 17:56", "duration": 25, "screen": "panchang"}
+{"uid": "U020", "opened_at": "2026-10-11T12:41:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U020", "opened_at": "2026-10-05T10:58:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U020", "opened_at": "13/10/2026 07:41", "duration": 7, "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "2026-11-20T18:40:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "2026-11-20T12:33:00", "duration": "", "screen": "panchang"}
+{"uid": "U020", "opened_at": "23/11/2026 20:02", "duration": "12", "screen": "Horoscope"}
+{"uid": "U020", "opened_at": "2026-11-18T12:34:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U021", "opened_at": "20/10/2026 18:38", "duration": "", "screen": "Horoscope"}
+{"uid": "U021", "opened_at": "2026-11-10T13:08:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U021", "opened_at": "2026-10-08T18:55:00", "duration": "", "screen": "panchang"}
+{"uid": "U021", "opened_at": "24/11/2026 08:12", "duration": "1", "screen": "CHAT"}
+{"uid": "U021", "opened_at": "2026-11-03T09:03:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U021", "opened_at": "2026-10-06T07:27:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U021", "opened_at": "26/10/2026 08:46", "duration": 25, "screen": "panchang"}
+{"uid": "U021", "opened_at": "2026-11-22T09:10:00", "duration": "1", "screen": "panchang"}
+{"uid": "U021", "opened_at": "2026-11-12T13:40:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U021", "opened_at": "31/10/2026 16:35", "duration": "", "screen": "Horoscope"}
+{"uid": "U021", "opened_at": "2026-10-19T19:34:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U021", "opened_at": "2026-11-06T14:13:00", "duration": "12", "screen": "panchang"}
+{"uid": "U021", "opened_at": "22/11/2026 07:12", "duration": 25, "screen": "Horoscope"}
+{"uid": "U021", "opened_at": "2026-11-17T11:22:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U022", "opened_at": "20/10/2026 17:53", "duration": "3", "screen": "Horoscope"}
+{"uid": "U022", "opened_at": "2026-10-12T09:05:00", "duration": "", "screen": "CHAT"}
+{"uid": "U022", "opened_at": "2026-10-19T14:52:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U022", "opened_at": "17/10/2026 15:07", "duration": 7, "screen": "Horoscope"}
+{"uid": "U023", "opened_at": "24/10/2026 10:51", "duration": "3", "screen": "CHAT"}
+{"uid": "U023", "opened_at": "2026-11-01T08:52:00", "duration": "3", "screen": "panchang"}
+{"uid": "U023", "opened_at": "2026-10-06T10:46:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "18/11/2026 11:11", "duration": "3", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "2026-10-06T22:56:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U024", "opened_at": "2026-11-02T12:31:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "28/10/2026 21:25", "duration": "12", "screen": "panchang"}
+{"uid": "U024", "opened_at": "2026-10-12T06:23:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U024", "opened_at": "2026-11-08T18:33:00", "duration": 25, "screen": "panchang"}
+{"uid": "U024", "opened_at": "08/11/2026 10:16", "duration": "3", "screen": "panchang"}
+{"uid": "U024", "opened_at": "2026-10-30T14:53:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "2026-10-12T11:39:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "26/10/2026 15:16", "duration": 25, "screen": "CHAT"}
+{"uid": "U024", "opened_at": "2026-10-29T18:25:00", "duration": "12", "screen": "panchang"}
+{"uid": "U024", "opened_at": "2026-10-04T20:05:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "12/11/2026 18:46", "duration": "12", "screen": "CHAT"}
+{"uid": "U024", "opened_at": "2026-11-03T16:01:00", "duration": "", "screen": "CHAT"}
+{"uid": "U025", "opened_at": "01/11/2026 17:29", "duration": "12", "screen": "CHAT"}
+{"uid": "U025", "opened_at": "2026-10-31T07:21:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U025", "opened_at": "2026-10-13T13:14:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U025", "opened_at": "28/10/2026 11:24", "duration": 7, "screen": "panchang"}
+{"uid": "U025", "opened_at": "2026-10-28T09:00:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U025", "opened_at": "2026-11-01T15:16:00", "duration": "", "screen": "panchang"}
+{"uid": "U025", "opened_at": "04/10/2026 15:51", "duration": "1", "screen": "Horoscope"}
+{"uid": "U025", "opened_at": "2026-11-11T20:11:00", "duration": "12", "screen": "panchang"}
+{"uid": "U025", "opened_at": "2026-10-31T13:52:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U025", "opened_at": "05/10/2026 19:24", "duration": 25, "screen": "Horoscope"}
+{"uid": "U025", "opened_at": "2026-10-27T16:24:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U025", "opened_at": "2026-11-02T17:05:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U025", "opened_at": "07/11/2026 07:31", "duration": 7, "screen": "CHAT"}
+{"uid": "U025", "opened_at": "2026-11-15T07:42:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "30/10/2026 11:51", "duration": "3", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-10-20T20:26:00", "duration": 7, "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-11-11T21:05:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "25/11/2026 22:38", "duration": "1", "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-10-31T06:01:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-10-06T10:10:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "03/10/2026 21:01", "duration": "12", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-10-06T19:39:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-10-24T14:19:00", "duration": "3", "screen": "panchang"}
+{"uid": "U026", "opened_at": "24/10/2026 10:03", "duration": 25, "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-10-11T10:17:00", "duration": "1", "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-11-13T08:54:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U026", "opened_at": "09/11/2026 19:59", "duration": "1", "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-11-09T12:10:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-19T19:44:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U026", "opened_at": "29/10/2026 11:05", "duration": "", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-10-13T17:53:00", "duration": "3", "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-11-07T20:41:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "15/10/2026 18:28", "duration": "3", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-11-04T11:04:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-10-21T07:51:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "16/11/2026 08:08", "duration": 25, "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-10-12T18:32:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-11-16T11:29:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "12/11/2026 22:12", "duration": "1", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-15T14:47:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-03T06:57:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "17/10/2026 17:09", "duration": 7, "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-23T21:18:00", "duration": "3", "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-11-02T16:31:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U026", "opened_at": "14/11/2026 21:06", "duration": "abc", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-11-01T12:18:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-10-30T07:45:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "10/11/2026 16:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-22T15:23:00", "duration": 7, "screen": "panchang"}
+{"uid": "U026", "opened_at": "2026-10-31T07:52:00", "duration": 7, "screen": "panchang"}
+{"uid": "U026", "opened_at": "03/11/2026 15:21", "duration": 25, "screen": "Horoscope"}
+{"uid": "U026", "opened_at": "2026-11-25T20:40:00", "duration": "", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "2026-10-24T16:07:00", "duration": "", "screen": "CHAT"}
+{"uid": "U026", "opened_at": "19/11/2026 06:07", "duration": "3", "screen": "Horoscope"}
+{"uid": "U027", "opened_at": "22/11/2026 17:27", "duration": "12", "screen": "panchang"}
+{"uid": "U027", "opened_at": "2026-10-09T06:35:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U027", "opened_at": "2026-10-28T22:46:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U027", "opened_at": "05/11/2026 19:04", "duration": "12", "screen": "Horoscope"}
+{"uid": "U027", "opened_at": "2026-11-23T09:36:00", "duration": 25, "screen": "panchang"}
+{"uid": "U027", "opened_at": "2026-10-12T15:16:00", "duration": "", "screen": "panchang"}
+{"uid": "U027", "opened_at": "22/11/2026 17:06", "duration": "", "screen": "panchang"}
+{"uid": "U027", "opened_at": "2026-11-04T13:39:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U027", "opened_at": "2026-11-18T08:03:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U027", "opened_at": "04/11/2026 15:36", "duration": "1", "screen": "CHAT"}
+{"uid": "U027", "opened_at": "2026-11-24T11:41:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U027", "opened_at": "2026-10-22T22:39:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U027", "opened_at": "23/11/2026 15:37", "duration": 7, "screen": "panchang"}
+{"uid": "U027", "opened_at": "2026-11-11T08:50:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U028", "opened_at": "12/11/2026 21:40", "duration": "3", "screen": "Horoscope"}
+{"uid": "U028", "opened_at": "2026-10-16T18:41:00", "duration": 7, "screen": "panchang"}
+{"uid": "U028", "opened_at": "2026-10-21T16:54:00", "duration": "12", "screen": "panchang"}
+{"uid": "U028", "opened_at": "24/10/2026 16:57", "duration": "", "screen": "Horoscope"}
+{"uid": "U028", "opened_at": "2026-11-09T20:19:00", "duration": "", "screen": "CHAT"}
+{"uid": "U028", "opened_at": "2026-10-25T06:21:00", "duration": 7, "screen": "panchang"}
+{"uid": "U028", "opened_at": "19/10/2026 22:02", "duration": 25, "screen": "panchang"}
+{"uid": "U028", "opened_at": "2026-11-03T17:33:00", "duration": "1", "screen": "panchang"}
+{"uid": "U028", "opened_at": "2026-10-30T10:48:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U028", "opened_at": "23/10/2026 14:20", "duration": "1", "screen": "panchang"}
+{"uid": "U028", "opened_at": "2026-11-22T22:51:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U028", "opened_at": "2026-11-13T14:01:00", "duration": 25, "screen": "panchang"}
+{"uid": "U028", "opened_at": "01/11/2026 08:13", "duration": "", "screen": "panchang"}
+{"uid": "U028", "opened_at": "2026-10-07T17:01:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U029", "opened_at": "13/10/2026 15:10", "duration": "abc", "screen": "CHAT"}
+{"uid": "U029", "opened_at": "2026-11-02T09:41:00", "duration": "", "screen": "CHAT"}
+{"uid": "U029", "opened_at": "2026-11-13T13:04:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U029", "opened_at": "21/11/2026 14:14", "duration": 25, "screen": "Horoscope"}
+{"uid": "U029", "opened_at": "2026-10-26T14:29:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U029", "opened_at": "2026-11-02T12:43:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U029", "opened_at": "24/10/2026 18:41", "duration": 7, "screen": "Horoscope"}
+{"uid": "U029", "opened_at": "2026-10-23T06:19:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U029", "opened_at": "2026-11-09T08:33:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U029", "opened_at": "05/10/2026 13:41", "duration": 25, "screen": "panchang"}
+{"uid": "U029", "opened_at": "2026-11-24T19:39:00", "duration": 25, "screen": "panchang"}
+{"uid": "U029", "opened_at": "2026-10-30T13:06:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U029", "opened_at": "05/10/2026 17:17", "duration": 25, "screen": "panchang"}
+{"uid": "U029", "opened_at": "2026-10-09T09:32:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U030", "opened_at": "09/10/2026 17:24", "duration": "abc", "screen": "CHAT"}
+{"uid": "U030", "opened_at": "2026-10-20T21:09:00", "duration": 25, "screen": "panchang"}
+{"uid": "U030", "opened_at": "2026-10-01T18:25:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U030", "opened_at": "18/10/2026 10:57", "duration": "12", "screen": "Horoscope"}
+{"uid": "U031", "opened_at": "25/10/2026 14:35", "duration": "", "screen": "Horoscope"}
+{"uid": "U031", "opened_at": "2026-10-15T16:52:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U031", "opened_at": "2026-10-06T11:43:00", "duration": "", "screen": "CHAT"}
+{"uid": "U032", "opened_at": "28/10/2026 20:34", "duration": "12", "screen": "panchang"}
+{"uid": "U032", "opened_at": "2026-11-02T22:32:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U032", "opened_at": "2026-11-10T18:49:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U032", "opened_at": "26/10/2026 20:34", "duration": "1", "screen": "CHAT"}
+{"uid": "U032", "opened_at": "2026-11-04T16:31:00", "duration": "", "screen": "panchang"}
+{"uid": "U032", "opened_at": "2026-10-30T06:47:00", "duration": "", "screen": "panchang"}
+{"uid": "U032", "opened_at": "09/10/2026 15:41", "duration": 7, "screen": "Horoscope"}
+{"uid": "U032", "opened_at": "2026-10-03T19:31:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U032", "opened_at": "2026-10-23T21:32:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U032", "opened_at": "22/11/2026 18:57", "duration": "3", "screen": "panchang"}
+{"uid": "U032", "opened_at": "2026-10-08T15:56:00", "duration": 7, "screen": "panchang"}
+{"uid": "U032", "opened_at": "2026-11-22T21:28:00", "duration": "", "screen": "CHAT"}
+{"uid": "U032", "opened_at": "14/11/2026 19:40", "duration": "", "screen": "Horoscope"}
+{"uid": "U032", "opened_at": "2026-10-05T12:08:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U033", "opened_at": "21/10/2026 08:28", "duration": "3", "screen": "Horoscope"}
+{"uid": "U033", "opened_at": "2026-10-18T07:13:00", "duration": "1", "screen": "panchang"}
+{"uid": "U033", "opened_at": "2026-10-28T16:02:00", "duration": "", "screen": "CHAT"}
+{"uid": "U033", "opened_at": "24/11/2026 21:52", "duration": "abc", "screen": "panchang"}
+{"uid": "U033", "opened_at": "2026-10-25T16:44:00", "duration": "", "screen": "panchang"}
+{"uid": "U033", "opened_at": "2026-10-27T08:01:00", "duration": "12", "screen": "panchang"}
+{"uid": "U033", "opened_at": "20/10/2026 11:58", "duration": 7, "screen": "Horoscope"}
+{"uid": "U033", "opened_at": "2026-10-10T22:12:00", "duration": "3", "screen": "panchang"}
+{"uid": "U033", "opened_at": "2026-11-21T21:55:00", "duration": "", "screen": "panchang"}
+{"uid": "U033", "opened_at": "08/10/2026 09:46", "duration": "", "screen": "Horoscope"}
+{"uid": "U033", "opened_at": "2026-11-06T09:07:00", "duration": "", "screen": "CHAT"}
+{"uid": "U033", "opened_at": "2026-11-13T21:40:00", "duration": 7, "screen": "panchang"}
+{"uid": "U033", "opened_at": "14/11/2026 18:25", "duration": "abc", "screen": "CHAT"}
+{"uid": "U033", "opened_at": "2026-11-07T21:04:00", "duration": "", "screen": "panchang"}
+{"uid": "U034", "opened_at": "14/11/2026 10:14", "duration": "12", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-09T14:23:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-10-26T21:07:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "11/10/2026 20:17", "duration": "", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-11-08T13:52:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-10-08T19:17:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "16/11/2026 15:59", "duration": "1", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-04T09:19:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-11-14T16:36:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "09/10/2026 12:58", "duration": 7, "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-17T15:44:00", "duration": 7, "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-10-06T21:18:00", "duration": "1", "screen": "panchang"}
+{"uid": "U034", "opened_at": "22/11/2026 16:34", "duration": "abc", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-16T21:04:00", "duration": "3", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-10-13T10:01:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "12/10/2026 15:40", "duration": "3", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-03T08:05:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-10-14T18:11:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "05/11/2026 13:22", "duration": 25, "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-11-23T11:30:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-11-23T17:09:00", "duration": 7, "screen": "panchang"}
+{"uid": "U034", "opened_at": "04/11/2026 15:27", "duration": "12", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-04T08:52:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-11-12T07:01:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "24/11/2026 20:04", "duration": "", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-06T17:21:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-13T11:13:00", "duration": "1", "screen": "panchang"}
+{"uid": "U034", "opened_at": "24/10/2026 22:59", "duration": "3", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-09T11:09:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-11-05T14:39:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "24/10/2026 22:10", "duration": "3", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "2026-10-25T14:13:00", "duration": "12", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-10-03T06:44:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "18/10/2026 10:09", "duration": "1", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-03T16:14:00", "duration": "1", "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-07T13:50:00", "duration": "", "screen": "panchang"}
+{"uid": "U034", "opened_at": "26/10/2026 14:19", "duration": 25, "screen": "panchang"}
+{"uid": "U034", "opened_at": "2026-11-21T16:57:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U034", "opened_at": "2026-11-03T12:47:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U034", "opened_at": "19/10/2026 08:29", "duration": "12", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "14/11/2026 19:05", "duration": 25, "screen": "Horoscope"}
+{"uid": "U035", "opened_at": "2026-10-13T20:13:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-11-11T20:23:00", "duration": "3", "screen": "panchang"}
+{"uid": "U035", "opened_at": "25/10/2026 06:20", "duration": "abc", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-10-09T19:03:00", "duration": "", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-10-09T09:43:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "22/10/2026 12:49", "duration": 25, "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-10-27T18:07:00", "duration": "3", "screen": "panchang"}
+{"uid": "U035", "opened_at": "2026-11-11T11:51:00", "duration": "", "screen": "panchang"}
+{"uid": "U035", "opened_at": "06/11/2026 13:29", "duration": "12", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-10-10T21:12:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U035", "opened_at": "2026-11-26T07:34:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U035", "opened_at": "29/10/2026 20:14", "duration": "3", "screen": "panchang"}
+{"uid": "U035", "opened_at": "2026-11-09T14:20:00", "duration": "3", "screen": "panchang"}
+{"uid": "U036", "opened_at": "08/11/2026 13:26", "duration": 25, "screen": "CHAT"}
+{"uid": "U036", "opened_at": "2026-10-08T06:17:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "2026-11-24T15:44:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "26/10/2026 11:25", "duration": "12", "screen": "panchang"}
+{"uid": "U036", "opened_at": "2026-10-14T10:10:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "2026-11-06T10:57:00", "duration": "12", "screen": "panchang"}
+{"uid": "U036", "opened_at": "16/10/2026 16:30", "duration": "abc", "screen": "panchang"}
+{"uid": "U036", "opened_at": "2026-10-10T17:42:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "2026-10-31T06:23:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U036", "opened_at": "12/10/2026 08:33", "duration": 7, "screen": "CHAT"}
+{"uid": "U036", "opened_at": "2026-11-04T12:33:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "2026-10-20T06:28:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U036", "opened_at": "19/10/2026 09:14", "duration": "12", "screen": "panchang"}
+{"uid": "U036", "opened_at": "2026-11-05T21:01:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U037", "opened_at": "19/11/2026 18:38", "duration": "abc", "screen": "panchang"}
+{"uid": "U037", "opened_at": "2026-11-02T15:57:00", "duration": "", "screen": "panchang"}
+{"uid": "U037", "opened_at": "2026-10-19T20:32:00", "duration": "3", "screen": "panchang"}
+{"uid": "U037", "opened_at": "30/10/2026 22:37", "duration": 25, "screen": "Horoscope"}
+{"uid": "U037", "opened_at": "2026-10-28T20:45:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U037", "opened_at": "2026-11-23T12:58:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U037", "opened_at": "14/11/2026 18:20", "duration": 25, "screen": "CHAT"}
+{"uid": "U037", "opened_at": "2026-10-31T18:02:00", "duration": "3", "screen": "panchang"}
+{"uid": "U037", "opened_at": "2026-10-14T13:59:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U037", "opened_at": "09/11/2026 20:17", "duration": "12", "screen": "panchang"}
+{"uid": "U037", "opened_at": "2026-11-08T21:30:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U037", "opened_at": "2026-11-13T12:29:00", "duration": "", "screen": "CHAT"}
+{"uid": "U037", "opened_at": "09/10/2026 13:27", "duration": 25, "screen": "panchang"}
+{"uid": "U037", "opened_at": "2026-10-14T12:00:00", "duration": "1", "screen": "panchang"}
+{"uid": "U038", "opened_at": "15/10/2026 18:06", "duration": 7, "screen": "Horoscope"}
+{"uid": "U038", "opened_at": "2026-10-20T22:52:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U038", "opened_at": "2026-10-17T09:30:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U038", "opened_at": "22/10/2026 16:19", "duration": "12", "screen": "CHAT"}
+{"uid": "U039", "opened_at": "10/10/2026 15:36", "duration": "12", "screen": "panchang"}
+{"uid": "U039", "opened_at": "2026-11-13T11:06:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U039", "opened_at": "2026-10-25T21:01:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U040", "opened_at": "12/10/2026 15:16", "duration": 25, "screen": "CHAT"}
+{"uid": "U040", "opened_at": "2026-11-14T08:29:00", "duration": "3", "screen": "panchang"}
+{"uid": "U040", "opened_at": "2026-10-09T21:22:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U040", "opened_at": "09/10/2026 21:43", "duration": "3", "screen": "panchang"}
+{"uid": "U040", "opened_at": "2026-11-04T16:46:00", "duration": 25, "screen": "panchang"}
+{"uid": "U040", "opened_at": "2026-11-06T09:28:00", "duration": "", "screen": "panchang"}
+{"uid": "U040", "opened_at": "18/11/2026 19:53", "duration": "12", "screen": "Horoscope"}
+{"uid": "U040", "opened_at": "2026-11-21T10:03:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U040", "opened_at": "2026-11-02T18:11:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U040", "opened_at": "28/10/2026 12:26", "duration": "abc", "screen": "CHAT"}
+{"uid": "U040", "opened_at": "2026-10-30T18:57:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U040", "opened_at": "2026-10-27T08:24:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U040", "opened_at": "27/10/2026 12:04", "duration": "abc", "screen": "panchang"}
+{"uid": "U040", "opened_at": "2026-10-23T09:36:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U041", "opened_at": "09/11/2026 06:39", "duration": "1", "screen": "CHAT"}
+{"uid": "U041", "opened_at": "2026-11-13T21:36:00", "duration": 25, "screen": "panchang"}
+{"uid": "U041", "opened_at": "2026-11-08T18:56:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U041", "opened_at": "07/11/2026 17:47", "duration": 25, "screen": "CHAT"}
+{"uid": "U041", "opened_at": "2026-11-26T07:16:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U041", "opened_at": "2026-10-08T15:41:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U041", "opened_at": "22/10/2026 06:31", "duration": "1", "screen": "CHAT"}
+{"uid": "U041", "opened_at": "2026-11-16T19:50:00", "duration": 7, "screen": "panchang"}
+{"uid": "U041", "opened_at": "2026-11-04T07:19:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U041", "opened_at": "08/10/2026 21:56", "duration": "1", "screen": "panchang"}
+{"uid": "U041", "opened_at": "2026-11-07T06:09:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U041", "opened_at": "2026-11-20T19:02:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U041", "opened_at": "11/11/2026 19:20", "duration": "3", "screen": "panchang"}
+{"uid": "U041", "opened_at": "2026-11-19T07:18:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "24/10/2026 20:26", "duration": "1", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-10-11T13:30:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-10T21:44:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "20/11/2026 18:10", "duration": 25, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-02T11:18:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-19T20:50:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "29/10/2026 22:46", "duration": "abc", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-11-05T14:36:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-10-22T14:44:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "18/11/2026 11:41", "duration": "", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-10-17T14:14:00", "duration": "1", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-11-21T20:27:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "09/11/2026 12:18", "duration": "3", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "2026-11-21T20:09:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-01T12:38:00", "duration": 7, "screen": "panchang"}
+{"uid": "U042", "opened_at": "02/11/2026 22:59", "duration": "12", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "2026-10-30T11:04:00", "duration": "12", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-10-25T09:03:00", "duration": "3", "screen": "panchang"}
+{"uid": "U042", "opened_at": "05/10/2026 11:18", "duration": "abc", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "2026-10-29T17:12:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-04T07:11:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "18/10/2026 21:52", "duration": 25, "screen": "CHAT"}
+{"uid": "U042", "opened_at": "2026-10-28T17:28:00", "duration": "", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "2026-10-23T21:34:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "13/10/2026 08:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-24T10:12:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-10-18T12:03:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U042", "opened_at": "07/10/2026 14:59", "duration": "abc", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-11-21T10:57:00", "duration": "3", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-10-08T19:10:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "12/10/2026 21:53", "duration": 25, "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-24T14:22:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-14T08:25:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U042", "opened_at": "22/10/2026 09:16", "duration": "1", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-11-14T12:28:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-11-24T08:57:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "15/11/2026 07:44", "duration": "abc", "screen": "panchang"}
+{"uid": "U042", "opened_at": "2026-10-30T09:09:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U042", "opened_at": "2026-10-16T16:21:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U042", "opened_at": "08/10/2026 13:45", "duration": "3", "screen": "CHAT"}
+{"uid": "U043", "opened_at": "18/11/2026 16:52", "duration": "12", "screen": "panchang"}
+{"uid": "U043", "opened_at": "2026-10-14T07:05:00", "duration": "", "screen": "panchang"}
+{"uid": "U043", "opened_at": "2026-11-03T20:26:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U043", "opened_at": "30/10/2026 17:44", "duration": "3", "screen": "panchang"}
+{"uid": "U043", "opened_at": "2026-10-21T08:12:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U043", "opened_at": "2026-10-22T09:07:00", "duration": "", "screen": "CHAT"}
+{"uid": "U043", "opened_at": "12/10/2026 18:42", "duration": "1", "screen": "Horoscope"}
+{"uid": "U043", "opened_at": "2026-11-24T12:10:00", "duration": "1", "screen": "panchang"}
+{"uid": "U043", "opened_at": "2026-10-08T22:48:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U043", "opened_at": "16/10/2026 10:30", "duration": "12", "screen": "panchang"}
+{"uid": "U043", "opened_at": "2026-10-07T12:13:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U043", "opened_at": "2026-11-18T16:06:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U043", "opened_at": "16/11/2026 15:47", "duration": 7, "screen": "Horoscope"}
+{"uid": "U043", "opened_at": "2026-11-08T15:10:00", "duration": "12", "screen": "panchang"}
+{"uid": "U044", "opened_at": "11/11/2026 09:50", "duration": "3", "screen": "panchang"}
+{"uid": "U044", "opened_at": "2026-10-27T21:09:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U044", "opened_at": "2026-10-07T13:57:00", "duration": 25, "screen": "panchang"}
+{"uid": "U044", "opened_at": "29/10/2026 18:07", "duration": 7, "screen": "CHAT"}
+{"uid": "U044", "opened_at": "2026-11-06T12:03:00", "duration": 7, "screen": "panchang"}
+{"uid": "U044", "opened_at": "2026-11-03T10:07:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U044", "opened_at": "08/10/2026 08:49", "duration": "12", "screen": "panchang"}
+{"uid": "U044", "opened_at": "2026-10-25T21:44:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U044", "opened_at": "2026-10-17T16:16:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U044", "opened_at": "12/10/2026 16:57", "duration": "abc", "screen": "panchang"}
+{"uid": "U044", "opened_at": "2026-11-15T09:55:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U044", "opened_at": "2026-11-22T11:43:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U044", "opened_at": "19/11/2026 18:35", "duration": "", "screen": "panchang"}
+{"uid": "U044", "opened_at": "2026-11-04T17:35:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U045", "opened_at": "10/11/2026 08:39", "duration": "", "screen": "panchang"}
+{"uid": "U045", "opened_at": "2026-11-23T22:49:00", "duration": "3", "screen": "panchang"}
+{"uid": "U045", "opened_at": "2026-10-05T06:39:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U045", "opened_at": "10/10/2026 15:14", "duration": 25, "screen": "CHAT"}
+{"uid": "U045", "opened_at": "2026-11-07T08:54:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U045", "opened_at": "2026-10-20T06:31:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U045", "opened_at": "05/10/2026 14:30", "duration": 7, "screen": "panchang"}
+{"uid": "U045", "opened_at": "2026-10-20T10:02:00", "duration": "1", "screen": "panchang"}
+{"uid": "U045", "opened_at": "2026-10-03T06:49:00", "duration": "", "screen": "CHAT"}
+{"uid": "U045", "opened_at": "12/10/2026 08:33", "duration": "12", "screen": "panchang"}
+{"uid": "U045", "opened_at": "2026-10-14T13:21:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U045", "opened_at": "2026-11-22T09:53:00", "duration": 7, "screen": "panchang"}
+{"uid": "U045", "opened_at": "06/11/2026 10:03", "duration": "12", "screen": "Horoscope"}
+{"uid": "U045", "opened_at": "2026-10-16T15:25:00", "duration": 7, "screen": "panchang"}
+{"uid": "U046", "opened_at": "19/10/2026 06:58", "duration": "3", "screen": "panchang"}
+{"uid": "U046", "opened_at": "2026-10-22T20:24:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U046", "opened_at": "2026-10-12T10:19:00", "duration": 7, "screen": "panchang"}
+{"uid": "U046", "opened_at": "09/10/2026 06:21", "duration": "3", "screen": "Horoscope"}
+{"uid": "U047", "opened_at": "02/11/2026 16:24", "duration": "3", "screen": "CHAT"}
+{"uid": "U047", "opened_at": "2026-10-09T07:03:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U047", "opened_at": "2026-11-25T20:20:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "26/10/2026 06:48", "duration": 25, "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "2026-10-12T09:22:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "2026-10-26T09:00:00", "duration": "12", "screen": "panchang"}
+{"uid": "U048", "opened_at": "18/11/2026 21:07", "duration": "1", "screen": "panchang"}
+{"uid": "U048", "opened_at": "2026-11-16T10:19:00", "duration": 25, "screen": "panchang"}
+{"uid": "U048", "opened_at": "2026-10-04T15:36:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "09/11/2026 17:09", "duration": 7, "screen": "CHAT"}
+{"uid": "U048", "opened_at": "2026-11-11T08:50:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "2026-11-14T06:00:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U048", "opened_at": "11/10/2026 10:27", "duration": "", "screen": "CHAT"}
+{"uid": "U048", "opened_at": "2026-11-09T07:40:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U048", "opened_at": "2026-10-24T19:38:00", "duration": "", "screen": "CHAT"}
+{"uid": "U048", "opened_at": "13/11/2026 18:02", "duration": "abc", "screen": "panchang"}
+{"uid": "U048", "opened_at": "2026-10-08T09:13:00", "duration": "3", "screen": "panchang"}
+{"uid": "U049", "opened_at": "19/10/2026 18:40", "duration": "", "screen": "CHAT"}
+{"uid": "U049", "opened_at": "2026-10-05T19:42:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U049", "opened_at": "2026-10-26T17:40:00", "duration": "12", "screen": "panchang"}
+{"uid": "U049", "opened_at": "21/10/2026 14:27", "duration": "", "screen": "Horoscope"}
+{"uid": "U049", "opened_at": "2026-11-18T09:46:00", "duration": "12", "screen": "panchang"}
+{"uid": "U049", "opened_at": "2026-10-05T20:08:00", "duration": 25, "screen": "panchang"}
+{"uid": "U049", "opened_at": "05/10/2026 21:20", "duration": "1", "screen": "panchang"}
+{"uid": "U049", "opened_at": "2026-10-14T07:38:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U049", "opened_at": "2026-10-05T13:02:00", "duration": "3", "screen": "panchang"}
+{"uid": "U049", "opened_at": "03/11/2026 14:36", "duration": "3", "screen": "panchang"}
+{"uid": "U049", "opened_at": "2026-11-17T20:21:00", "duration": "12", "screen": "panchang"}
+{"uid": "U049", "opened_at": "2026-10-28T20:12:00", "duration": 7, "screen": "panchang"}
+{"uid": "U049", "opened_at": "09/11/2026 06:23", "duration": "12", "screen": "panchang"}
+{"uid": "U049", "opened_at": "2026-10-10T12:32:00", "duration": "12", "screen": "panchang"}
+{"uid": "U050", "opened_at": "21/10/2026 18:17", "duration": 25, "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-22T07:12:00", "duration": 25, "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-11T07:30:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "16/11/2026 10:56", "duration": 7, "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-25T22:46:00", "duration": "", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-17T07:15:00", "duration": "1", "screen": "panchang"}
+{"uid": "U050", "opened_at": "11/11/2026 15:53", "duration": "", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-30T10:42:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-05T20:08:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "23/11/2026 17:06", "duration": "abc", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-10-09T09:26:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-05T16:00:00", "duration": "", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "17/11/2026 19:21", "duration": "12", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-10-29T07:14:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-10-17T19:36:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U050", "opened_at": "16/10/2026 18:22", "duration": "3", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-01T15:35:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "2026-10-27T19:33:00", "duration": "", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "10/10/2026 12:18", "duration": "1", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "2026-10-05T21:21:00", "duration": "1", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-11-01T07:49:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "08/10/2026 14:37", "duration": "abc", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-24T11:13:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "2026-10-11T18:54:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "11/11/2026 09:30", "duration": 7, "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-17T21:04:00", "duration": "12", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-11-16T14:39:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "25/10/2026 14:31", "duration": 7, "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-11-05T11:51:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-10-14T10:49:00", "duration": 7, "screen": "panchang"}
+{"uid": "U050", "opened_at": "14/11/2026 16:37", "duration": 7, "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-11-14T11:08:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "2026-10-09T12:06:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "05/11/2026 09:42", "duration": "12", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-20T06:45:00", "duration": "3", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-26T17:58:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U050", "opened_at": "21/11/2026 19:10", "duration": "12", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-11-10T19:06:00", "duration": "3", "screen": "panchang"}
+{"uid": "U050", "opened_at": "2026-10-04T12:44:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U050", "opened_at": "04/10/2026 16:45", "duration": 7, "screen": "panchang"}
+{"uid": "U051", "opened_at": "05/11/2026 14:49", "duration": 25, "screen": "panchang"}
+{"uid": "U051", "opened_at": "2026-11-17T07:23:00", "duration": "", "screen": "panchang"}
+{"uid": "U051", "opened_at": "2026-10-22T16:54:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U051", "opened_at": "31/10/2026 14:40", "duration": "3", "screen": "Horoscope"}
+{"uid": "U051", "opened_at": "2026-11-12T18:06:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U051", "opened_at": "2026-10-06T11:21:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U051", "opened_at": "02/11/2026 18:58", "duration": "", "screen": "CHAT"}
+{"uid": "U051", "opened_at": "2026-10-20T16:49:00", "duration": "12", "screen": "panchang"}
+{"uid": "U051", "opened_at": "2026-10-08T08:13:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U051", "opened_at": "11/10/2026 15:36", "duration": "1", "screen": "Horoscope"}
+{"uid": "U051", "opened_at": "2026-11-02T18:14:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U051", "opened_at": "2026-10-10T20:45:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U051", "opened_at": "23/11/2026 19:19", "duration": "12", "screen": "panchang"}
+{"uid": "U051", "opened_at": "2026-11-11T17:36:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U052", "opened_at": "25/10/2026 17:09", "duration": "abc", "screen": "CHAT"}
+{"uid": "U052", "opened_at": "2026-10-24T09:43:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U052", "opened_at": "2026-10-11T08:08:00", "duration": "12", "screen": "panchang"}
+{"uid": "U052", "opened_at": "15/10/2026 14:04", "duration": 7, "screen": "panchang"}
+{"uid": "U052", "opened_at": "2026-11-21T09:01:00", "duration": "12", "screen": "panchang"}
+{"uid": "U052", "opened_at": "2026-10-13T10:57:00", "duration": "1", "screen": "panchang"}
+{"uid": "U052", "opened_at": "21/10/2026 06:02", "duration": "abc", "screen": "panchang"}
+{"uid": "U052", "opened_at": "2026-10-08T09:16:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U052", "opened_at": "2026-10-19T13:01:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U052", "opened_at": "15/11/2026 15:05", "duration": "12", "screen": "CHAT"}
+{"uid": "U052", "opened_at": "2026-11-26T15:03:00", "duration": "", "screen": "panchang"}
+{"uid": "U052", "opened_at": "2026-10-09T15:18:00", "duration": "", "screen": "CHAT"}
+{"uid": "U052", "opened_at": "24/10/2026 18:01", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U052", "opened_at": "2026-10-20T18:17:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U053", "opened_at": "05/10/2026 22:49", "duration": "3", "screen": "Horoscope"}
+{"uid": "U053", "opened_at": "2026-10-24T14:23:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U053", "opened_at": "2026-10-13T09:17:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U053", "opened_at": "26/11/2026 10:21", "duration": "", "screen": "panchang"}
+{"uid": "U053", "opened_at": "2026-11-21T11:05:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U053", "opened_at": "2026-10-27T15:00:00", "duration": "", "screen": "panchang"}
+{"uid": "U053", "opened_at": "09/11/2026 16:34", "duration": 7, "screen": "Horoscope"}
+{"uid": "U053", "opened_at": "2026-10-06T06:18:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U053", "opened_at": "2026-11-24T14:26:00", "duration": 7, "screen": "panchang"}
+{"uid": "U053", "opened_at": "19/10/2026 06:04", "duration": 25, "screen": "Horoscope"}
+{"uid": "U053", "opened_at": "2026-11-18T16:06:00", "duration": 25, "screen": "panchang"}
+{"uid": "U053", "opened_at": "2026-10-27T20:40:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U053", "opened_at": "14/10/2026 14:32", "duration": "abc", "screen": "panchang"}
+{"uid": "U053", "opened_at": "2026-11-23T11:51:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U054", "opened_at": "20/10/2026 19:35", "duration": "", "screen": "Horoscope"}
+{"uid": "U054", "opened_at": "2026-10-03T19:56:00", "duration": 7, "screen": "panchang"}
+{"uid": "U054", "opened_at": "2026-10-04T19:37:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U054", "opened_at": "23/10/2026 13:02", "duration": "abc", "screen": "panchang"}
+{"uid": "U055", "opened_at": "25/10/2026 08:38", "duration": "abc", "screen": "CHAT"}
+{"uid": "U055", "opened_at": "2026-11-05T08:02:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U055", "opened_at": "2026-11-04T14:26:00", "duration": "", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "22/10/2026 18:59", "duration": "", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "2026-11-07T18:05:00", "duration": 7, "screen": "panchang"}
+{"uid": "U056", "opened_at": "2026-10-26T12:51:00", "duration": "", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "20/11/2026 12:09", "duration": "abc", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "2026-11-06T12:35:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U056", "opened_at": "2026-10-18T18:57:00", "duration": "3", "screen": "panchang"}
+{"uid": "U056", "opened_at": "28/10/2026 18:41", "duration": 7, "screen": "CHAT"}
+{"uid": "U056", "opened_at": "2026-11-02T06:17:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "2026-10-16T09:52:00", "duration": "1", "screen": "panchang"}
+{"uid": "U056", "opened_at": "25/10/2026 19:47", "duration": "12", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "2026-11-15T14:48:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U056", "opened_at": "2026-11-03T20:17:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U056", "opened_at": "12/10/2026 07:13", "duration": "3", "screen": "panchang"}
+{"uid": "U056", "opened_at": "2026-11-23T19:39:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "09/11/2026 09:39", "duration": "12", "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "2026-10-10T11:31:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U057", "opened_at": "2026-11-17T21:10:00", "duration": "1", "screen": "panchang"}
+{"uid": "U057", "opened_at": "07/10/2026 13:54", "duration": 25, "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "2026-10-18T22:44:00", "duration": 7, "screen": "panchang"}
+{"uid": "U057", "opened_at": "2026-10-05T22:26:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "11/11/2026 18:16", "duration": "3", "screen": "CHAT"}
+{"uid": "U057", "opened_at": "2026-10-27T07:23:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U057", "opened_at": "2026-11-06T14:01:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "18/10/2026 16:59", "duration": "12", "screen": "panchang"}
+{"uid": "U057", "opened_at": "2026-11-12T11:36:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "2026-11-12T09:07:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "26/10/2026 07:48", "duration": 7, "screen": "Horoscope"}
+{"uid": "U057", "opened_at": "2026-10-03T17:31:00", "duration": "1", "screen": "panchang"}
+{"uid": "U058", "opened_at": "04/10/2026 21:55", "duration": "12", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-10-31T19:35:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-11-09T17:00:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "10/11/2026 11:56", "duration": "3", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-11-08T06:56:00", "duration": "", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-22T22:28:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U058", "opened_at": "12/11/2026 17:39", "duration": "3", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-10-11T15:26:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-11-16T08:50:00", "duration": "3", "screen": "panchang"}
+{"uid": "U058", "opened_at": "14/10/2026 21:37", "duration": "3", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-15T21:03:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-10-26T21:44:00", "duration": 25, "screen": "panchang"}
+{"uid": "U058", "opened_at": "10/11/2026 19:49", "duration": "", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-11-16T11:39:00", "duration": "3", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-10-11T21:39:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "21/11/2026 20:14", "duration": "1", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-15T08:32:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-10-08T16:51:00", "duration": "", "screen": "panchang"}
+{"uid": "U058", "opened_at": "25/10/2026 19:01", "duration": 25, "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-25T10:47:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-10-16T11:12:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "09/11/2026 16:56", "duration": "abc", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-26T16:16:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-10T15:09:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "20/11/2026 11:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-07T09:09:00", "duration": 7, "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-13T11:44:00", "duration": "12", "screen": "panchang"}
+{"uid": "U058", "opened_at": "09/11/2026 16:50", "duration": "abc", "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-14T12:45:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-11-13T11:32:00", "duration": "3", "screen": "panchang"}
+{"uid": "U058", "opened_at": "27/10/2026 15:50", "duration": 7, "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-11-23T08:11:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-17T10:10:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "08/11/2026 07:29", "duration": "1", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-13T06:16:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U058", "opened_at": "2026-11-06T11:14:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "09/10/2026 12:21", "duration": 7, "screen": "Horoscope"}
+{"uid": "U058", "opened_at": "2026-10-09T16:20:00", "duration": 25, "screen": "panchang"}
+{"uid": "U058", "opened_at": "2026-10-29T07:49:00", "duration": 7, "screen": "panchang"}
+{"uid": "U058", "opened_at": "04/11/2026 14:15", "duration": "3", "screen": "CHAT"}
+{"uid": "U059", "opened_at": "17/10/2026 13:38", "duration": 7, "screen": "Horoscope"}
+{"uid": "U059", "opened_at": "2026-10-25T15:06:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U059", "opened_at": "2026-10-06T15:04:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U059", "opened_at": "15/11/2026 06:28", "duration": "abc", "screen": "panchang"}
+{"uid": "U059", "opened_at": "2026-10-17T13:24:00", "duration": "", "screen": "panchang"}
+{"uid": "U059", "opened_at": "2026-11-23T15:33:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U059", "opened_at": "13/10/2026 19:56", "duration": "1", "screen": "Horoscope"}
+{"uid": "U059", "opened_at": "2026-10-27T14:02:00", "duration": "1", "screen": "panchang"}
+{"uid": "U059", "opened_at": "2026-11-21T15:24:00", "duration": "12", "screen": "panchang"}
+{"uid": "U059", "opened_at": "03/11/2026 14:08", "duration": "abc", "screen": "CHAT"}
+{"uid": "U059", "opened_at": "2026-11-21T21:12:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U059", "opened_at": "2026-11-20T18:48:00", "duration": "12", "screen": "panchang"}
+{"uid": "U059", "opened_at": "06/11/2026 09:07", "duration": "1", "screen": "panchang"}
+{"uid": "U059", "opened_at": "2026-11-23T19:01:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "12/11/2026 12:06", "duration": "12", "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "2026-11-10T17:16:00", "duration": 7, "screen": "panchang"}
+{"uid": "U060", "opened_at": "2026-10-09T16:46:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U060", "opened_at": "14/10/2026 21:06", "duration": 7, "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "2026-10-30T15:28:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "2026-11-26T18:39:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "16/11/2026 22:18", "duration": "", "screen": "panchang"}
+{"uid": "U060", "opened_at": "2026-11-02T16:40:00", "duration": "3", "screen": "panchang"}
+{"uid": "U060", "opened_at": "2026-11-26T16:00:00", "duration": "12", "screen": "panchang"}
+{"uid": "U060", "opened_at": "17/11/2026 06:06", "duration": "3", "screen": "CHAT"}
+{"uid": "U060", "opened_at": "2026-10-10T09:19:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U060", "opened_at": "2026-10-04T13:09:00", "duration": 25, "screen": "panchang"}
+{"uid": "U060", "opened_at": "03/10/2026 07:04", "duration": 25, "screen": "panchang"}
+{"uid": "U060", "opened_at": "2026-10-24T13:41:00", "duration": "3", "screen": "panchang"}
+{"uid": "U061", "opened_at": "16/10/2026 13:12", "duration": 25, "screen": "CHAT"}
+{"uid": "U061", "opened_at": "2026-11-01T20:59:00", "duration": 25, "screen": "panchang"}
+{"uid": "U061", "opened_at": "2026-10-10T15:54:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U061", "opened_at": "27/10/2026 18:46", "duration": 25, "screen": "Horoscope"}
+{"uid": "U061", "opened_at": "2026-11-11T15:10:00", "duration": "12", "screen": "panchang"}
+{"uid": "U061", "opened_at": "2026-10-03T20:59:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U061", "opened_at": "10/11/2026 09:42", "duration": "abc", "screen": "panchang"}
+{"uid": "U061", "opened_at": "2026-11-06T21:08:00", "duration": 7, "screen": "panchang"}
+{"uid": "U061", "opened_at": "2026-11-09T21:25:00", "duration": 25, "screen": "panchang"}
+{"uid": "U061", "opened_at": "16/10/2026 21:28", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U061", "opened_at": "2026-11-09T14:32:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U061", "opened_at": "2026-11-25T11:47:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U061", "opened_at": "07/10/2026 13:22", "duration": "1", "screen": "CHAT"}
+{"uid": "U061", "opened_at": "2026-10-11T08:41:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U062", "opened_at": "10/10/2026 13:51", "duration": "", "screen": "panchang"}
+{"uid": "U062", "opened_at": "2026-10-14T19:16:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U062", "opened_at": "2026-10-17T11:37:00", "duration": "", "screen": "CHAT"}
+{"uid": "U062", "opened_at": "16/10/2026 06:15", "duration": "12", "screen": "panchang"}
+{"uid": "U063", "opened_at": "20/10/2026 15:54", "duration": "12", "screen": "panchang"}
+{"uid": "U063", "opened_at": "2026-11-11T17:59:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U063", "opened_at": "2026-10-15T11:00:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U064", "opened_at": "25/11/2026 08:41", "duration": "3", "screen": "panchang"}
+{"uid": "U064", "opened_at": "2026-11-16T21:00:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U064", "opened_at": "2026-10-08T07:44:00", "duration": "", "screen": "panchang"}
+{"uid": "U064", "opened_at": "09/10/2026 08:47", "duration": "1", "screen": "CHAT"}
+{"uid": "U064", "opened_at": "2026-10-24T19:26:00", "duration": 7, "screen": "panchang"}
+{"uid": "U064", "opened_at": "2026-11-21T16:22:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U064", "opened_at": "10/10/2026 19:50", "duration": "1", "screen": "CHAT"}
+{"uid": "U064", "opened_at": "2026-11-14T16:19:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U064", "opened_at": "2026-10-30T15:02:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U064", "opened_at": "01/11/2026 11:54", "duration": "12", "screen": "CHAT"}
+{"uid": "U064", "opened_at": "2026-11-06T15:30:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U064", "opened_at": "2026-11-20T10:40:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U064", "opened_at": "10/10/2026 15:25", "duration": "1", "screen": "Horoscope"}
+{"uid": "U064", "opened_at": "2026-11-17T09:02:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U065", "opened_at": "08/10/2026 22:54", "duration": "", "screen": "CHAT"}
+{"uid": "U065", "opened_at": "2026-10-23T22:36:00", "duration": "1", "screen": "panchang"}
+{"uid": "U065", "opened_at": "2026-11-21T06:33:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U065", "opened_at": "22/10/2026 13:09", "duration": "", "screen": "CHAT"}
+{"uid": "U065", "opened_at": "2026-11-10T13:43:00", "duration": "1", "screen": "panchang"}
+{"uid": "U065", "opened_at": "2026-11-08T09:19:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U065", "opened_at": "03/11/2026 10:21", "duration": 7, "screen": "Horoscope"}
+{"uid": "U065", "opened_at": "2026-11-15T14:49:00", "duration": "3", "screen": "panchang"}
+{"uid": "U065", "opened_at": "2026-11-12T08:35:00", "duration": 25, "screen": "panchang"}
+{"uid": "U065", "opened_at": "09/10/2026 21:50", "duration": "abc", "screen": "CHAT"}
+{"uid": "U065", "opened_at": "2026-10-14T14:10:00", "duration": "", "screen": "CHAT"}
+{"uid": "U065", "opened_at": "2026-11-22T16:48:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U065", "opened_at": "13/10/2026 08:46", "duration": 7, "screen": "Horoscope"}
+{"uid": "U065", "opened_at": "2026-10-18T06:44:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "14/10/2026 21:42", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-21T20:08:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-10-15T15:09:00", "duration": "", "screen": "panchang"}
+{"uid": "U066", "opened_at": "05/10/2026 14:58", "duration": 7, "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-14T17:16:00", "duration": "", "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-10-16T19:11:00", "duration": "12", "screen": "panchang"}
+{"uid": "U066", "opened_at": "13/11/2026 12:28", "duration": "", "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-10-05T10:59:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-18T13:53:00", "duration": "3", "screen": "panchang"}
+{"uid": "U066", "opened_at": "22/10/2026 12:34", "duration": "1", "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-11-19T16:13:00", "duration": "", "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-10-16T10:32:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U066", "opened_at": "14/10/2026 18:19", "duration": "1", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-11T15:11:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-10-14T21:14:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "22/10/2026 12:27", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-04T06:54:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-18T11:46:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "14/10/2026 10:38", "duration": 7, "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-10-22T08:20:00", "duration": "", "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-10-24T17:03:00", "duration": 25, "screen": "panchang"}
+{"uid": "U066", "opened_at": "16/11/2026 08:52", "duration": "12", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-28T20:32:00", "duration": "", "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-10-03T21:15:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U066", "opened_at": "17/11/2026 20:04", "duration": "12", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-15T09:42:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-10-07T16:56:00", "duration": 7, "screen": "panchang"}
+{"uid": "U066", "opened_at": "14/10/2026 19:33", "duration": 25, "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-04T07:19:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-10-31T08:33:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "04/11/2026 10:16", "duration": "12", "screen": "panchang"}
+{"uid": "U066", "opened_at": "2026-10-12T19:15:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-12T21:18:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U066", "opened_at": "10/11/2026 16:13", "duration": 7, "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-26T17:36:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-14T15:04:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "11/11/2026 08:13", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U066", "opened_at": "2026-11-08T13:08:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U066", "opened_at": "2026-11-02T06:12:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U066", "opened_at": "14/10/2026 17:28", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "14/11/2026 20:23", "duration": "", "screen": "panchang"}
+{"uid": "U067", "opened_at": "2026-10-23T21:00:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U067", "opened_at": "2026-11-06T10:17:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "13/11/2026 10:48", "duration": "", "screen": "CHAT"}
+{"uid": "U067", "opened_at": "2026-11-13T15:03:00", "duration": 25, "screen": "panchang"}
+{"uid": "U067", "opened_at": "2026-10-24T12:18:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "07/11/2026 09:22", "duration": "1", "screen": "panchang"}
+{"uid": "U067", "opened_at": "2026-10-30T22:56:00", "duration": "3", "screen": "panchang"}
+{"uid": "U067", "opened_at": "2026-10-25T11:23:00", "duration": "", "screen": "panchang"}
+{"uid": "U067", "opened_at": "24/11/2026 17:14", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "2026-10-27T14:01:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "2026-11-18T15:02:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U067", "opened_at": "08/10/2026 15:40", "duration": "", "screen": "Horoscope"}
+{"uid": "U067", "opened_at": "2026-10-12T21:17:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U068", "opened_at": "14/11/2026 21:18", "duration": "12", "screen": "panchang"}
+{"uid": "U068", "opened_at": "2026-10-08T06:40:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U068", "opened_at": "2026-11-19T21:40:00", "duration": "12", "screen": "panchang"}
+{"uid": "U068", "opened_at": "20/11/2026 20:26", "duration": "", "screen": "CHAT"}
+{"uid": "U068", "opened_at": "2026-10-15T07:52:00", "duration": "12", "screen": "panchang"}
+{"uid": "U068", "opened_at": "2026-11-10T15:10:00", "duration": "", "screen": "panchang"}
+{"uid": "U068", "opened_at": "17/11/2026 19:39", "duration": "1", "screen": "panchang"}
+{"uid": "U068", "opened_at": "2026-11-19T19:34:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U068", "opened_at": "2026-10-28T07:49:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U068", "opened_at": "11/11/2026 19:19", "duration": 7, "screen": "CHAT"}
+{"uid": "U068", "opened_at": "2026-10-04T10:34:00", "duration": "", "screen": "CHAT"}
+{"uid": "U068", "opened_at": "2026-10-17T20:11:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U068", "opened_at": "20/10/2026 17:58", "duration": 7, "screen": "panchang"}
+{"uid": "U068", "opened_at": "2026-10-04T21:43:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U069", "opened_at": "07/10/2026 19:21", "duration": "", "screen": "Horoscope"}
+{"uid": "U069", "opened_at": "2026-10-10T10:16:00", "duration": "", "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-11-20T17:23:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U069", "opened_at": "23/11/2026 14:58", "duration": 25, "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-11-02T14:55:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-10-26T20:55:00", "duration": 25, "screen": "panchang"}
+{"uid": "U069", "opened_at": "19/11/2026 17:04", "duration": 7, "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-10-14T21:44:00", "duration": "", "screen": "panchang"}
+{"uid": "U069", "opened_at": "2026-11-15T21:29:00", "duration": 7, "screen": "panchang"}
+{"uid": "U069", "opened_at": "14/10/2026 13:09", "duration": "3", "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-10-31T17:07:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U069", "opened_at": "2026-10-23T13:22:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U069", "opened_at": "07/11/2026 21:50", "duration": "1", "screen": "Horoscope"}
+{"uid": "U069", "opened_at": "2026-11-12T22:29:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U070", "opened_at": "01/10/2026 12:53", "duration": 25, "screen": "panchang"}
+{"uid": "U070", "opened_at": "2026-10-12T13:19:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U070", "opened_at": "2026-10-19T17:21:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U070", "opened_at": "22/10/2026 11:48", "duration": "3", "screen": "Horoscope"}
+{"uid": "U071", "opened_at": "21/10/2026 21:31", "duration": 25, "screen": "panchang"}
+{"uid": "U071", "opened_at": "2026-10-20T20:24:00", "duration": "", "screen": "panchang"}
+{"uid": "U071", "opened_at": "2026-11-03T17:18:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "16/11/2026 11:43", "duration": "1", "screen": "panchang"}
+{"uid": "U072", "opened_at": "2026-10-30T20:08:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "2026-10-29T22:41:00", "duration": "1", "screen": "panchang"}
+{"uid": "U072", "opened_at": "25/11/2026 08:58", "duration": "3", "screen": "panchang"}
+{"uid": "U072", "opened_at": "2026-10-07T07:09:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "2026-10-20T12:51:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U072", "opened_at": "14/11/2026 16:06", "duration": "abc", "screen": "panchang"}
+{"uid": "U072", "opened_at": "2026-11-02T20:18:00", "duration": "", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "2026-10-04T18:21:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "09/10/2026 06:03", "duration": "12", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "2026-11-04T12:37:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U072", "opened_at": "2026-10-19T08:46:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U072", "opened_at": "21/10/2026 08:40", "duration": "12", "screen": "CHAT"}
+{"uid": "U072", "opened_at": "2026-11-15T20:38:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "21/11/2026 16:15", "duration": "12", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-13T07:23:00", "duration": "1", "screen": "panchang"}
+{"uid": "U073", "opened_at": "2026-11-20T21:34:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U073", "opened_at": "16/10/2026 18:07", "duration": "12", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-02T19:11:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-11T15:20:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "05/10/2026 11:43", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-24T12:01:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-18T16:49:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "24/10/2026 20:52", "duration": "", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-10-27T14:01:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U073", "opened_at": "2026-10-12T21:11:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "22/10/2026 16:54", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U073", "opened_at": "2026-11-13T21:13:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "17/11/2026 08:38", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-11-22T12:17:00", "duration": "12", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-04T21:25:00", "duration": "", "screen": "panchang"}
+{"uid": "U074", "opened_at": "24/10/2026 22:57", "duration": "", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-10-10T21:03:00", "duration": 25, "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-10-27T20:32:00", "duration": "12", "screen": "panchang"}
+{"uid": "U074", "opened_at": "28/10/2026 18:46", "duration": "1", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-19T07:03:00", "duration": "3", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-10-19T20:58:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "18/11/2026 17:26", "duration": 25, "screen": "CHAT"}
+{"uid": "U074", "opened_at": "2026-11-19T17:06:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-25T20:20:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "19/11/2026 18:51", "duration": "3", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-14T19:59:00", "duration": 25, "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-10-28T14:21:00", "duration": "3", "screen": "panchang"}
+{"uid": "U074", "opened_at": "24/11/2026 19:30", "duration": "3", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "2026-11-18T07:19:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-10-24T08:28:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U074", "opened_at": "13/10/2026 06:13", "duration": 7, "screen": "CHAT"}
+{"uid": "U074", "opened_at": "2026-10-15T21:09:00", "duration": "", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "2026-11-02T12:29:00", "duration": "1", "screen": "panchang"}
+{"uid": "U074", "opened_at": "27/10/2026 13:28", "duration": 25, "screen": "CHAT"}
+{"uid": "U074", "opened_at": "2026-10-17T16:13:00", "duration": "12", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-16T21:30:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "20/10/2026 11:08", "duration": "1", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-10-11T14:06:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-11-14T16:05:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "23/11/2026 15:12", "duration": "", "screen": "panchang"}
+{"uid": "U074", "opened_at": "2026-11-02T22:15:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-11-25T06:04:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "13/10/2026 10:23", "duration": "12", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-10-30T17:15:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-10-22T10:34:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "25/10/2026 18:18", "duration": "3", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-11-20T17:09:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-10-06T16:52:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U074", "opened_at": "11/11/2026 09:49", "duration": 7, "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-11-01T14:03:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U074", "opened_at": "2026-10-26T14:08:00", "duration": "12", "screen": "panchang"}
+{"uid": "U074", "opened_at": "20/11/2026 20:26", "duration": "abc", "screen": "panchang"}
+{"uid": "U075", "opened_at": "14/10/2026 17:11", "duration": "1", "screen": "CHAT"}
+{"uid": "U075", "opened_at": "2026-11-03T07:27:00", "duration": "12", "screen": "panchang"}
+{"uid": "U075", "opened_at": "2026-10-15T18:17:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U075", "opened_at": "21/11/2026 16:30", "duration": "abc", "screen": "panchang"}
+{"uid": "U075", "opened_at": "2026-11-12T09:07:00", "duration": "1", "screen": "panchang"}
+{"uid": "U075", "opened_at": "2026-11-04T09:09:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U075", "opened_at": "02/11/2026 10:58", "duration": 25, "screen": "CHAT"}
+{"uid": "U075", "opened_at": "2026-11-10T19:21:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U075", "opened_at": "2026-11-12T21:38:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U075", "opened_at": "18/11/2026 06:57", "duration": "abc", "screen": "panchang"}
+{"uid": "U075", "opened_at": "2026-10-27T21:58:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U075", "opened_at": "2026-10-25T14:09:00", "duration": "12", "screen": "panchang"}
+{"uid": "U075", "opened_at": "16/11/2026 07:21", "duration": "3", "screen": "panchang"}
+{"uid": "U075", "opened_at": "2026-11-05T14:29:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "22/11/2026 09:40", "duration": "12", "screen": "Horoscope"}
+{"uid": "U076", "opened_at": "2026-11-04T20:15:00", "duration": "1", "screen": "panchang"}
+{"uid": "U076", "opened_at": "2026-11-26T20:44:00", "duration": "3", "screen": "panchang"}
+{"uid": "U076", "opened_at": "07/11/2026 11:05", "duration": "3", "screen": "Horoscope"}
+{"uid": "U076", "opened_at": "2026-10-24T07:45:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "2026-11-13T12:48:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U076", "opened_at": "12/11/2026 08:39", "duration": "1", "screen": "panchang"}
+{"uid": "U076", "opened_at": "2026-10-09T21:02:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "2026-11-09T14:50:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U076", "opened_at": "23/10/2026 21:34", "duration": "", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "2026-10-26T06:56:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "2026-10-19T14:03:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "18/10/2026 15:59", "duration": "1", "screen": "CHAT"}
+{"uid": "U076", "opened_at": "2026-11-15T13:46:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U077", "opened_at": "18/10/2026 22:47", "duration": "abc", "screen": "panchang"}
+{"uid": "U077", "opened_at": "2026-10-28T19:14:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U077", "opened_at": "2026-10-30T06:48:00", "duration": "12", "screen": "panchang"}
+{"uid": "U077", "opened_at": "09/11/2026 20:42", "duration": "1", "screen": "CHAT"}
+{"uid": "U077", "opened_at": "2026-11-18T22:57:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U077", "opened_at": "2026-11-25T07:22:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U077", "opened_at": "06/11/2026 19:21", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U077", "opened_at": "2026-10-25T17:09:00", "duration": 7, "screen": "panchang"}
+{"uid": "U077", "opened_at": "2026-10-05T15:49:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U077", "opened_at": "12/10/2026 16:13", "duration": 25, "screen": "panchang"}
+{"uid": "U077", "opened_at": "2026-11-10T08:56:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U077", "opened_at": "2026-11-11T21:05:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U077", "opened_at": "11/11/2026 13:11", "duration": "12", "screen": "panchang"}
+{"uid": "U077", "opened_at": "2026-11-19T09:27:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U078", "opened_at": "03/10/2026 14:29", "duration": "3", "screen": "panchang"}
+{"uid": "U078", "opened_at": "2026-10-10T06:12:00", "duration": 7, "screen": "panchang"}
+{"uid": "U078", "opened_at": "2026-09-30T06:24:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U078", "opened_at": "23/10/2026 14:40", "duration": 25, "screen": "Horoscope"}
+{"uid": "U079", "opened_at": "17/10/2026 13:08", "duration": "", "screen": "CHAT"}
+{"uid": "U079", "opened_at": "2026-10-09T22:08:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U079", "opened_at": "2026-10-09T22:05:00", "duration": "1", "screen": "panchang"}
+{"uid": "U080", "opened_at": "27/10/2026 22:14", "duration": 25, "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-11-08T10:49:00", "duration": "", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-11-02T20:55:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U080", "opened_at": "21/10/2026 17:39", "duration": "3", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-11-05T07:46:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U080", "opened_at": "2026-11-04T08:54:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "14/10/2026 09:46", "duration": "12", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-10-17T22:58:00", "duration": 7, "screen": "panchang"}
+{"uid": "U080", "opened_at": "2026-10-14T22:31:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U080", "opened_at": "20/11/2026 16:33", "duration": "", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-10-31T07:22:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U080", "opened_at": "2026-11-03T10:29:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U080", "opened_at": "10/11/2026 07:09", "duration": "abc", "screen": "CHAT"}
+{"uid": "U080", "opened_at": "2026-10-12T14:16:00", "duration": 7, "screen": "panchang"}
+{"uid": "U081", "opened_at": "07/11/2026 09:19", "duration": 25, "screen": "CHAT"}
+{"uid": "U081", "opened_at": "2026-11-04T06:21:00", "duration": "", "screen": "CHAT"}
+{"uid": "U081", "opened_at": "2026-11-13T07:15:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U081", "opened_at": "11/10/2026 12:42", "duration": "1", "screen": "Horoscope"}
+{"uid": "U081", "opened_at": "2026-10-25T12:11:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U081", "opened_at": "2026-10-14T18:44:00", "duration": 7, "screen": "panchang"}
+{"uid": "U081", "opened_at": "03/11/2026 20:38", "duration": "abc", "screen": "CHAT"}
+{"uid": "U081", "opened_at": "2026-11-11T20:38:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U081", "opened_at": "2026-11-19T10:13:00", "duration": 25, "screen": "panchang"}
+{"uid": "U081", "opened_at": "17/11/2026 09:31", "duration": "12", "screen": "panchang"}
+{"uid": "U081", "opened_at": "2026-11-04T18:40:00", "duration": "", "screen": "panchang"}
+{"uid": "U081", "opened_at": "2026-10-17T14:36:00", "duration": "12", "screen": "panchang"}
+{"uid": "U081", "opened_at": "16/10/2026 22:57", "duration": "1", "screen": "panchang"}
+{"uid": "U081", "opened_at": "2026-10-19T08:20:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U082", "opened_at": "08/10/2026 12:31", "duration": "1", "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-30T20:35:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-07T10:54:00", "duration": "", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "27/10/2026 14:01", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-10-25T07:57:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-15T07:35:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "06/10/2026 09:07", "duration": "", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-16T07:19:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-11T19:07:00", "duration": 25, "screen": "panchang"}
+{"uid": "U082", "opened_at": "13/10/2026 15:19", "duration": "1", "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-14T08:21:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-11T10:29:00", "duration": 7, "screen": "panchang"}
+{"uid": "U082", "opened_at": "27/10/2026 14:19", "duration": "", "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-25T19:44:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-20T14:25:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "19/10/2026 20:10", "duration": "12", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-15T15:13:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-31T08:23:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "31/10/2026 09:28", "duration": "3", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-08T19:51:00", "duration": 25, "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-11-08T07:49:00", "duration": "1", "screen": "panchang"}
+{"uid": "U082", "opened_at": "16/10/2026 11:06", "duration": "1", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-11-19T11:47:00", "duration": "", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-11-22T13:51:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U082", "opened_at": "23/11/2026 07:05", "duration": "3", "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-23T13:19:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-11-06T08:43:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "25/10/2026 16:53", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-10-19T17:42:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-10-13T06:57:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "03/10/2026 09:04", "duration": 7, "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-16T14:39:00", "duration": 25, "screen": "panchang"}
+{"uid": "U082", "opened_at": "2026-10-16T13:46:00", "duration": "1", "screen": "panchang"}
+{"uid": "U082", "opened_at": "04/11/2026 17:24", "duration": "", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "2026-11-08T18:19:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-15T16:20:00", "duration": "", "screen": "CHAT"}
+{"uid": "U082", "opened_at": "31/10/2026 10:44", "duration": "", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-08T17:31:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U082", "opened_at": "2026-11-19T14:54:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U082", "opened_at": "11/10/2026 17:15", "duration": "12", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "24/11/2026 22:27", "duration": "12", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "2026-11-21T08:56:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U083", "opened_at": "2026-10-17T09:58:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "03/11/2026 19:41", "duration": 7, "screen": "CHAT"}
+{"uid": "U083", "opened_at": "2026-10-24T09:12:00", "duration": 7, "screen": "panchang"}
+{"uid": "U083", "opened_at": "2026-10-21T14:48:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "08/11/2026 07:49", "duration": "12", "screen": "panchang"}
+{"uid": "U083", "opened_at": "2026-10-17T15:00:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "2026-11-21T08:26:00", "duration": 25, "screen": "panchang"}
+{"uid": "U083", "opened_at": "21/10/2026 13:21", "duration": "", "screen": "Horoscope"}
+{"uid": "U083", "opened_at": "2026-10-05T17:00:00", "duration": "3", "screen": "panchang"}
+{"uid": "U083", "opened_at": "2026-10-21T10:20:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U083", "opened_at": "06/11/2026 14:02", "duration": 25, "screen": "panchang"}
+{"uid": "U083", "opened_at": "2026-11-06T14:29:00", "duration": 25, "screen": "panchang"}
+{"uid": "U084", "opened_at": "08/10/2026 12:15", "duration": "", "screen": "panchang"}
+{"uid": "U084", "opened_at": "2026-10-23T12:20:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U084", "opened_at": "2026-10-06T07:22:00", "duration": "", "screen": "panchang"}
+{"uid": "U084", "opened_at": "27/10/2026 14:10", "duration": "1", "screen": "CHAT"}
+{"uid": "U084", "opened_at": "2026-11-12T12:08:00", "duration": "", "screen": "panchang"}
+{"uid": "U084", "opened_at": "2026-10-27T09:53:00", "duration": "12", "screen": "panchang"}
+{"uid": "U084", "opened_at": "14/10/2026 10:05", "duration": 7, "screen": "Horoscope"}
+{"uid": "U084", "opened_at": "2026-11-04T11:31:00", "duration": "12", "screen": "panchang"}
+{"uid": "U084", "opened_at": "2026-10-15T14:13:00", "duration": 7, "screen": "panchang"}
+{"uid": "U084", "opened_at": "24/10/2026 20:06", "duration": 25, "screen": "CHAT"}
+{"uid": "U084", "opened_at": "2026-11-09T17:30:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U084", "opened_at": "2026-11-24T21:14:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U084", "opened_at": "05/10/2026 07:45", "duration": "3", "screen": "CHAT"}
+{"uid": "U084", "opened_at": "2026-10-17T09:27:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U085", "opened_at": "31/10/2026 22:24", "duration": "12", "screen": "panchang"}
+{"uid": "U085", "opened_at": "2026-11-18T07:03:00", "duration": "3", "screen": "panchang"}
+{"uid": "U085", "opened_at": "2026-10-14T12:30:00", "duration": "12", "screen": "panchang"}
+{"uid": "U085", "opened_at": "03/10/2026 15:05", "duration": 25, "screen": "Horoscope"}
+{"uid": "U085", "opened_at": "2026-11-10T16:17:00", "duration": "12", "screen": "panchang"}
+{"uid": "U085", "opened_at": "2026-10-11T14:13:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U085", "opened_at": "03/10/2026 12:58", "duration": "", "screen": "CHAT"}
+{"uid": "U085", "opened_at": "2026-10-20T10:31:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U085", "opened_at": "2026-11-06T08:10:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U085", "opened_at": "16/11/2026 09:03", "duration": "", "screen": "CHAT"}
+{"uid": "U085", "opened_at": "2026-10-17T20:44:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U085", "opened_at": "2026-10-20T22:01:00", "duration": "", "screen": "panchang"}
+{"uid": "U085", "opened_at": "11/11/2026 18:57", "duration": "", "screen": "panchang"}
+{"uid": "U085", "opened_at": "2026-11-25T06:13:00", "duration": "1", "screen": "panchang"}
+{"uid": "U086", "opened_at": "01/10/2026 21:59", "duration": 25, "screen": "Horoscope"}
+{"uid": "U086", "opened_at": "2026-10-03T07:30:00", "duration": "3", "screen": "panchang"}
+{"uid": "U086", "opened_at": "2026-10-23T09:59:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U086", "opened_at": "28/09/2026 08:53", "duration": "12", "screen": "CHAT"}
+{"uid": "U087", "opened_at": "25/11/2026 19:15", "duration": "12", "screen": "CHAT"}
+{"uid": "U087", "opened_at": "2026-10-29T13:11:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U087", "opened_at": "2026-10-09T15:16:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U088", "opened_at": "12/11/2026 21:21", "duration": "", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "2026-11-01T09:30:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U088", "opened_at": "2026-10-30T09:49:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U088", "opened_at": "29/10/2026 06:50", "duration": 25, "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "2026-11-08T20:18:00", "duration": "", "screen": "CHAT"}
+{"uid": "U088", "opened_at": "2026-10-03T16:03:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "24/11/2026 08:33", "duration": "1", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "2026-10-23T21:08:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "2026-11-17T18:22:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "15/10/2026 14:40", "duration": "1", "screen": "Horoscope"}
+{"uid": "U088", "opened_at": "2026-10-11T13:43:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U088", "opened_at": "2026-11-13T19:22:00", "duration": "", "screen": "panchang"}
+{"uid": "U088", "opened_at": "18/10/2026 15:58", "duration": "3", "screen": "panchang"}
+{"uid": "U088", "opened_at": "2026-11-03T09:16:00", "duration": "3", "screen": "panchang"}
+{"uid": "U089", "opened_at": "02/11/2026 09:43", "duration": "3", "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "2026-10-19T18:12:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "2026-10-27T21:00:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U089", "opened_at": "21/10/2026 09:28", "duration": "3", "screen": "CHAT"}
+{"uid": "U089", "opened_at": "2026-11-01T08:31:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "2026-10-29T17:59:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U089", "opened_at": "14/10/2026 17:47", "duration": 25, "screen": "CHAT"}
+{"uid": "U089", "opened_at": "2026-10-31T07:28:00", "duration": "12", "screen": "panchang"}
+{"uid": "U089", "opened_at": "2026-11-08T09:48:00", "duration": 25, "screen": "panchang"}
+{"uid": "U089", "opened_at": "19/10/2026 06:59", "duration": 7, "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "2026-11-05T11:08:00", "duration": "1", "screen": "panchang"}
+{"uid": "U089", "opened_at": "2026-11-15T18:54:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "30/10/2026 17:44", "duration": "", "screen": "Horoscope"}
+{"uid": "U089", "opened_at": "2026-11-19T20:04:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "14/10/2026 17:44", "duration": "3", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-11-06T09:52:00", "duration": 25, "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-16T10:48:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "05/10/2026 07:55", "duration": "", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-10-28T07:50:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-11-09T12:13:00", "duration": 7, "screen": "panchang"}
+{"uid": "U090", "opened_at": "29/10/2026 14:45", "duration": "3", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-10-18T22:56:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-11-11T15:30:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "05/10/2026 11:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-11-01T10:50:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-14T07:50:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "05/10/2026 22:44", "duration": "abc", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-10-11T18:57:00", "duration": "3", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-10T19:10:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "20/11/2026 22:33", "duration": "abc", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-07T08:36:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-10-06T09:26:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "12/10/2026 10:05", "duration": 7, "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-04T11:11:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-11-12T18:31:00", "duration": 25, "screen": "panchang"}
+{"uid": "U090", "opened_at": "03/11/2026 09:07", "duration": 7, "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-25T07:49:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-10-09T16:17:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "10/11/2026 17:01", "duration": 7, "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-11-08T14:18:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U090", "opened_at": "2026-10-15T15:35:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "25/11/2026 06:50", "duration": 7, "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-11-17T07:08:00", "duration": "3", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-10-08T10:49:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "31/10/2026 13:03", "duration": 25, "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-11-25T11:56:00", "duration": "", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-11-05T22:20:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "25/10/2026 21:58", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-10-26T20:59:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-11-22T06:22:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U090", "opened_at": "26/11/2026 13:54", "duration": "12", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "2026-10-20T13:51:00", "duration": "12", "screen": "panchang"}
+{"uid": "U090", "opened_at": "2026-11-25T20:40:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U090", "opened_at": "30/10/2026 07:56", "duration": "12", "screen": "CHAT"}
+{"uid": "U091", "opened_at": "13/11/2026 10:57", "duration": "", "screen": "Horoscope"}
+{"uid": "U091", "opened_at": "2026-10-10T17:57:00", "duration": 7, "screen": "panchang"}
+{"uid": "U091", "opened_at": "2026-10-28T12:15:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U091", "opened_at": "02/11/2026 18:07", "duration": "abc", "screen": "CHAT"}
+{"uid": "U091", "opened_at": "2026-10-05T20:26:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U091", "opened_at": "2026-11-03T06:16:00", "duration": 7, "screen": "panchang"}
+{"uid": "U091", "opened_at": "06/11/2026 10:05", "duration": "3", "screen": "panchang"}
+{"uid": "U091", "opened_at": "2026-11-06T07:57:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U091", "opened_at": "2026-11-26T19:08:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U091", "opened_at": "06/11/2026 15:12", "duration": "abc", "screen": "panchang"}
+{"uid": "U091", "opened_at": "2026-10-07T08:53:00", "duration": "1", "screen": "panchang"}
+{"uid": "U091", "opened_at": "2026-10-21T17:48:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U091", "opened_at": "19/11/2026 11:49", "duration": 7, "screen": "panchang"}
+{"uid": "U091", "opened_at": "2026-10-18T10:32:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U092", "opened_at": "14/11/2026 17:04", "duration": 7, "screen": "CHAT"}
+{"uid": "U092", "opened_at": "2026-10-15T18:01:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "2026-10-10T13:56:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "16/11/2026 10:53", "duration": "", "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "2026-11-11T10:31:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U092", "opened_at": "2026-10-06T20:12:00", "duration": "1", "screen": "panchang"}
+{"uid": "U092", "opened_at": "21/11/2026 13:52", "duration": "", "screen": "CHAT"}
+{"uid": "U092", "opened_at": "2026-10-10T11:44:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U092", "opened_at": "2026-10-16T09:28:00", "duration": "3", "screen": "panchang"}
+{"uid": "U092", "opened_at": "30/10/2026 11:22", "duration": "3", "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "2026-10-17T07:46:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "2026-10-27T07:04:00", "duration": "", "screen": "CHAT"}
+{"uid": "U092", "opened_at": "24/11/2026 13:45", "duration": "12", "screen": "Horoscope"}
+{"uid": "U092", "opened_at": "2026-10-24T13:09:00", "duration": "", "screen": "CHAT"}
+{"uid": "U093", "opened_at": "05/11/2026 20:20", "duration": "", "screen": "panchang"}
+{"uid": "U093", "opened_at": "2026-10-30T17:39:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U093", "opened_at": "2026-10-29T14:00:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U093", "opened_at": "23/11/2026 15:03", "duration": "1", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "2026-10-24T21:38:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "2026-11-01T20:14:00", "duration": "12", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "10/10/2026 18:17", "duration": 7, "screen": "panchang"}
+{"uid": "U093", "opened_at": "2026-11-10T07:10:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "2026-10-24T15:57:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U093", "opened_at": "04/11/2026 10:09", "duration": "1", "screen": "CHAT"}
+{"uid": "U093", "opened_at": "2026-11-06T09:39:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U093", "opened_at": "2026-10-24T10:27:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "25/11/2026 12:18", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U093", "opened_at": "2026-11-17T10:35:00", "duration": "12", "screen": "panchang"}
+{"uid": "U094", "opened_at": "02/10/2026 06:28", "duration": "", "screen": "panchang"}
+{"uid": "U094", "opened_at": "2026-10-01T10:02:00", "duration": 7, "screen": "panchang"}
+{"uid": "U094", "opened_at": "2026-10-06T13:55:00", "duration": 7, "screen": "panchang"}
+{"uid": "U094", "opened_at": "15/10/2026 06:16", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U095", "opened_at": "10/10/2026 16:44", "duration": "3", "screen": "panchang"}
+{"uid": "U095", "opened_at": "2026-10-07T06:08:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U095", "opened_at": "2026-10-31T20:15:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U096", "opened_at": "09/10/2026 14:36", "duration": 7, "screen": "panchang"}
+{"uid": "U096", "opened_at": "2026-10-27T17:28:00", "duration": "", "screen": "CHAT"}
+{"uid": "U096", "opened_at": "2026-11-24T19:50:00", "duration": 7, "screen": "Horoscope"}
+{"uid": "U096", "opened_at": "26/10/2026 16:21", "duration": "3", "screen": "Horoscope"}
+{"uid": "U096", "opened_at": "2026-11-23T16:55:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U096", "opened_at": "2026-11-19T08:03:00", "duration": "", "screen": "panchang"}
+{"uid": "U096", "opened_at": "29/10/2026 16:22", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U096", "opened_at": "2026-10-26T17:17:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U096", "opened_at": "2026-11-15T07:04:00", "duration": "3", "screen": "panchang"}
+{"uid": "U096", "opened_at": "08/11/2026 13:23", "duration": "1", "screen": "panchang"}
+{"uid": "U096", "opened_at": "2026-10-06T15:07:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U096", "opened_at": "2026-11-11T22:43:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U096", "opened_at": "04/10/2026 08:11", "duration": "1", "screen": "panchang"}
+{"uid": "U096", "opened_at": "2026-11-19T08:30:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "12/10/2026 13:23", "duration": "12", "screen": "panchang"}
+{"uid": "U097", "opened_at": "2026-10-27T21:53:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U097", "opened_at": "2026-10-31T13:12:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U097", "opened_at": "11/10/2026 07:55", "duration": "1", "screen": "panchang"}
+{"uid": "U097", "opened_at": "2026-11-19T13:11:00", "duration": "12", "screen": "panchang"}
+{"uid": "U097", "opened_at": "2026-10-30T15:06:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "17/10/2026 22:13", "duration": "1", "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "2026-11-05T14:50:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "2026-10-10T12:29:00", "duration": "", "screen": "panchang"}
+{"uid": "U097", "opened_at": "28/10/2026 18:23", "duration": "12", "screen": "CHAT"}
+{"uid": "U097", "opened_at": "2026-10-19T15:11:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "2026-10-27T12:56:00", "duration": 25, "screen": "CHAT"}
+{"uid": "U097", "opened_at": "24/11/2026 17:33", "duration": 7, "screen": "Horoscope"}
+{"uid": "U097", "opened_at": "2026-10-21T18:51:00", "duration": 7, "screen": "panchang"}
+{"uid": "U098", "opened_at": "31/10/2026 18:14", "duration": "1", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-10-04T14:49:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-10-11T07:30:00", "duration": "12", "screen": "panchang"}
+{"uid": "U098", "opened_at": "23/10/2026 21:18", "duration": "1", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-04T22:14:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-24T09:42:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U098", "opened_at": "26/10/2026 07:52", "duration": "3", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-11-17T20:44:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-09T20:54:00", "duration": "", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "03/11/2026 07:19", "duration": 25, "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-10-25T17:22:00", "duration": "1", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-11-23T19:17:00", "duration": "", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "18/10/2026 06:12", "duration": "1", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-11-04T10:57:00", "duration": "", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-11-09T16:19:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "19/11/2026 16:09", "duration": "3", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-10-24T12:43:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-11-05T09:38:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U098", "opened_at": "03/11/2026 11:44", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-11-25T15:50:00", "duration": 25, "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-11-13T18:08:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "14/11/2026 06:58", "duration": "", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-11-17T21:28:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-29T12:50:00", "duration": "", "screen": "panchang"}
+{"uid": "U098", "opened_at": "27/10/2026 09:48", "duration": "", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-10-04T18:10:00", "duration": "", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-10-24T18:53:00", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "06/10/2026 06:10", "duration": "3", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-25T21:41:00", "duration": "", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-11-23T08:39:00", "duration": "1", "screen": "panchang"}
+{"uid": "U098", "opened_at": "21/10/2026 12:06", "duration": "1", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-10-21T18:01:00", "duration": "abc", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "2026-11-10T09:28:00", "duration": "1", "screen": "panchang"}
+{"uid": "U098", "opened_at": "31/10/2026 10:42", "duration": "", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-11-01T17:04:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-11-13T17:50:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U098", "opened_at": "24/10/2026 11:24", "duration": "1", "screen": "Horoscope"}
+{"uid": "U098", "opened_at": "2026-10-07T06:41:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U098", "opened_at": "2026-11-14T21:13:00", "duration": "", "screen": "panchang"}
+{"uid": "U098", "opened_at": "17/10/2026 10:34", "duration": "1", "screen": "Horoscope"}
+{"uid": "U099", "opened_at": "06/11/2026 12:47", "duration": "3", "screen": "panchang"}
+{"uid": "U099", "opened_at": "2026-11-24T08:59:00", "duration": "abc", "screen": "panchang"}
+{"uid": "U099", "opened_at": "2026-10-12T17:30:00", "duration": "3", "screen": "CHAT"}
+{"uid": "U099", "opened_at": "04/10/2026 13:07", "duration": "", "screen": "panchang"}
+{"uid": "U099", "opened_at": "2026-11-17T17:22:00", "duration": "3", "screen": "panchang"}
+{"uid": "U099", "opened_at": "2026-11-20T17:38:00", "duration": 7, "screen": "panchang"}
+{"uid": "U099", "opened_at": "05/11/2026 20:18", "duration": 7, "screen": "Horoscope"}
+{"uid": "U099", "opened_at": "2026-11-12T08:04:00", "duration": 7, "screen": "CHAT"}
+{"uid": "U099", "opened_at": "2026-10-29T14:10:00", "duration": "", "screen": "Horoscope"}
+{"uid": "U099", "opened_at": "06/11/2026 17:44", "duration": 7, "screen": "panchang"}
+{"uid": "U099", "opened_at": "2026-11-12T20:54:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U099", "opened_at": "2026-10-04T15:51:00", "duration": "12", "screen": "panchang"}
+{"uid": "U099", "opened_at": "21/11/2026 22:45", "duration": "12", "screen": "CHAT"}
+{"uid": "U099", "opened_at": "2026-11-23T19:11:00", "duration": "12", "screen": "panchang"}
+{"uid": "U100", "opened_at": "06/11/2026 13:16", "duration": "1", "screen": "CHAT"}
+{"uid": "U100", "opened_at": "2026-11-04T13:35:00", "duration": "1", "screen": "CHAT"}
+{"uid": "U100", "opened_at": "2026-10-14T14:43:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U100", "opened_at": "07/11/2026 13:32", "duration": 7, "screen": "panchang"}
+{"uid": "U100", "opened_at": "2026-11-16T18:23:00", "duration": "12", "screen": "CHAT"}
+{"uid": "U100", "opened_at": "2026-11-12T17:53:00", "duration": 25, "screen": "Horoscope"}
+{"uid": "U100", "opened_at": "07/10/2026 07:42", "duration": 7, "screen": "CHAT"}
+{"uid": "U100", "opened_at": "2026-11-01T14:41:00", "duration": 25, "screen": "panchang"}
+{"uid": "U100", "opened_at": "2026-10-05T18:12:00", "duration": "1", "screen": "Horoscope"}
+{"uid": "U100", "opened_at": "25/10/2026 19:17", "duration": "1", "screen": "CHAT"}
+{"uid": "U100", "opened_at": "2026-11-26T07:41:00", "duration": "abc", "screen": "Horoscope"}
+{"uid": "U100", "opened_at": "2026-10-19T09:20:00", "duration": "1", "screen": "panchang"}
+{"uid": "U100", "opened_at": "19/11/2026 06:50", "duration": "abc", "screen": "panchang"}
+{"uid": "U100", "opened_at": "2026-10-09T21:24:00", "duration": 7, "screen": "Horoscope"}

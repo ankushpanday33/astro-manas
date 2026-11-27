@@ -1,0 +1,890 @@
+msg_id	customer_id	Medium	Sent On	Delivery Status	direction	reply
+M00001	U001	in_app	18/11/2026 19:26	Read	out	
+M00002	U001	SMS	20/10/2026 9:23	DELIVERED	out	
+M00003	U001	Push Notification	19/10/2026 15:41	Seen	out	
+M00004	U001	Push Notification	19/10/2026 16:05	received	in	kundli matching chahiye
+M00005	U001	push	26/11/2026 13:00	DELIVERED	out	
+M00006	U001	In-App	16/11/2026 11:00	DELIVERED	out	
+M00007	U001	push	28/10/2026 9:53	read	out	
+M00008	U001	whatsapp	11/10/2026 8:49	Seen	out	
+M00009	U001	whatsapp	11/10/2026 9:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00010	U001	whatsapp	30/10/2026 8:20	failed	out	
+M00011	U001	in_app	17/11/2026 20:42	Seen	out	
+M00012	U001	whatsapp	16/11/2026 19:26	Read	out	
+M00013	U001	in_app	08/11/2026 16:45	DELIVERED	out	
+M00014	U001	WhatsApp	07/10/2026 21:13	DELIVERED	out	
+M00015	U002	In-App	12/10/2026 21:27	read	out	
+M00016	U002	SMS	26/11/2026 15:24	read	out	
+M00017	U002	whatsapp	07/10/2026 12:22	DELIVERED	out	
+M00018	U002	whatsapp	30/10/2026 16:02	Read	out	
+M00019	U002	Push Notification	26/11/2026 16:20	Seen	out	
+M00020	U002	Push Notification	26/11/2026 17:05	received	in	which colour is good today
+M00021	U002	whatsapp	04/11/2026 19:40	DELIVERED	out	
+M00022	U003	In-App	22/11/2026 12:45	Seen	out	
+M00023	U003	Push Notification	23/11/2026 13:56	read	out	
+M00024	U003	In-App	19/11/2026 18:12	read	out	
+M00025	U003	push	03/11/2026 20:11	failed	out	
+M00026	U003	Push Notification	19/10/2026 10:27	Read	out	
+M00027	U003	in_app	16/11/2026 12:33	Seen	out	
+M00028	U003	Push Notification	31/10/2026 20:15	Read	out	
+M00029	U003	push	11/10/2026 17:27	DELIVERED	out	
+M00030	U003	Push Notification	26/10/2026 10:34	failed	out	
+M00031	U003	whatsapp	13/10/2026 14:00	Seen	out	
+M00032	U004	In-App	10/10/2026 16:06	read	out	
+M00033	U004	In-App	24/10/2026 15:10	Read	out	
+M00034	U004	whatsapp	09/11/2026 15:56	DELIVERED	out	
+M00035	U004	push	08/10/2026 10:30	DELIVERED	out	
+M00036	U004	in_app	05/10/2026 16:39	read	out	
+M00037	U004	push	09/11/2026 16:04	read	out	
+M00038	U004	in_app	18/11/2026 18:16	Read	out	
+M00039	U004	WhatsApp	11/11/2026 20:53	failed	out	
+M00040	U004	in_app	24/10/2026 12:21	read	out	
+M00041	U004	whatsapp	11/11/2026 16:34	read	out	
+M00042	U004	in_app	19/10/2026 17:18	read	out	
+M00043	U005	whatsapp	29/10/2026 19:09	Read	out	
+M00044	U005	push	13/10/2026 18:53	DELIVERED	out	
+M00045	U005	push	06/11/2026 15:37	read	out	
+M00046	U005	push	06/11/2026 16:05	received	in	kal match hai
+M00047	U005	In-App	03/10/2026 11:00	read	out	
+M00048	U005	In-App	15/11/2026 12:15	Read	out	
+M00049	U005	In-App	19/11/2026 17:58	DELIVERED	out	
+M00050	U005	push	13/10/2026 21:52	read	out	
+M00051	U005	in_app	21/10/2026 20:15	Read	out	
+M00052	U005	in_app	21/10/2026 21:05	received	in	aaj mera lucky number kya hai, khelna hai
+M00053	U005	whatsapp	05/10/2026 10:52	failed	out	
+M00054	U005	push	30/10/2026 21:44	Seen	out	
+M00055	U005	Push Notification	13/11/2026 11:05	failed	out	
+M00056	U006	Push Notification	28/10/2026 17:55	failed	out	
+M00057	U006	In-App	06/10/2026 17:06	failed	out	
+M00058	U006	whatsapp	08/10/2026 18:39	read	out	
+M00059	U006	whatsapp	16/11/2026 15:03	Seen	out	
+M00060	U006	Push Notification	13/10/2026 18:02	DELIVERED	out	
+M00061	U006	whatsapp	11/11/2026 10:19	Read	out	
+M00062	U006	whatsapp	11/11/2026 11:05	received	in	notifications band karo please
+M00063	U006	WhatsApp	09/10/2026 8:18	read	out	
+M00064	U007	Push Notification	24/11/2026 13:02	read	out	
+M00065	U007	Push Notification	24/11/2026 14:05	received	in	stop sending messages
+M00066	U007	SMS	17/10/2026 12:30	Seen	out	
+M00067	U007	whatsapp	24/10/2026 20:43	failed	out	
+M00068	U007	whatsapp	23/10/2026 14:24	read	out	
+M00069	U007	Push Notification	04/10/2026 21:57	DELIVERED	out	
+M00070	U007	push	02/10/2026 18:34	Seen	out	
+M00071	U007	push	02/10/2026 19:05	received	in	stop sending messages
+M00072	U007	WhatsApp	25/11/2026 17:06	Read	out	
+M00073	U007	in_app	05/11/2026 9:18	read	out	
+M00074	U007	WhatsApp	20/10/2026 17:27	Read	out	
+M00075	U008	WhatsApp	09/10/2026 17:18	Seen	out	
+M00076	U008	Push Notification	31/10/2026 8:37	Read	out	
+M00077	U008	in_app	31/10/2026 12:07	Read	out	
+M00078	U008	Push Notification	02/11/2026 17:39	read	out	
+M00079	U008	in_app	07/10/2026 19:13	read	out	
+M00080	U008	Push Notification	17/10/2026 13:12	Seen	out	
+M00081	U008	Push Notification	17/10/2026 14:05	received	in	job interview next week hai, bahut tension 😟
+M00082	U008	SMS	16/10/2026 11:18	Read	out	
+M00083	U009	Push Notification	16/10/2026 10:45	read	out	
+M00084	U009	push	04/10/2026 13:02	DELIVERED	out	
+M00085	U009	push	20/10/2026 18:22	failed	out	
+M00086	U009	push	01/11/2026 12:41	failed	out	
+M00087	U009	WhatsApp	24/11/2026 20:05	read	out	
+M00088	U009	WhatsApp	24/11/2026 21:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00089	U009	SMS	15/10/2026 11:53	read	out	
+M00090	U009	Push Notification	22/11/2026 12:04	failed	out	
+M00091	U010	push	05/10/2026 9:09	failed	out	
+M00092	U010	whatsapp	25/11/2026 14:27	Read	out	
+M00093	U010	whatsapp	25/11/2026 15:05	received	in	which colour is good today
+M00094	U010	whatsapp	08/11/2026 13:01	read	out	
+M00095	U010	WhatsApp	04/10/2026 14:25	failed	out	
+M00096	U010	whatsapp	22/10/2026 18:06	DELIVERED	out	
+M00097	U010	push	13/10/2026 10:03	read	out	
+M00098	U011	In-App	07/10/2026 11:24	Seen	out	
+M00099	U011	push	03/10/2026 18:46	Seen	out	
+M00100	U011	Push Notification	04/10/2026 17:29	read	out	
+M00101	U011	Push Notification	04/10/2026 18:05	received	in	what does my nakshatra mean?
+M00102	U011	whatsapp	25/11/2026 9:38	failed	out	
+M00103	U011	in_app	22/10/2026 19:52	Read	out	
+M00104	U011	Push Notification	15/11/2026 13:01	failed	out	
+M00105	U011	Push Notification	21/11/2026 10:40	DELIVERED	out	
+M00106	U011	in_app	17/10/2026 15:41	Seen	out	
+M00107	U011	in_app	17/10/2026 16:05	received	in	mera lucky number kya hai
+M00108	U012	in_app	11/10/2026 15:18	Seen	out	
+M00109	U012	Push Notification	14/10/2026 12:08	Seen	out	
+M00110	U012	SMS	04/11/2026 21:28	failed	out	
+M00111	U012	WhatsApp	04/10/2026 19:41	Seen	out	
+M00112	U012	In-App	14/11/2026 13:55	read	out	
+M00113	U012	whatsapp	08/10/2026 17:25	Read	out	
+M00114	U012	SMS	27/10/2026 21:15	DELIVERED	out	
+M00115	U012	WhatsApp	10/11/2026 16:24	Read	out	
+M00116	U012	WhatsApp	10/11/2026 17:05	received	in	paise ki bahut tension hai, kuch upay batao
+M00117	U012	push	08/11/2026 12:04	Read	out	
+M00118	U013	whatsapp	16/11/2026 18:42	failed	out	
+M00119	U013	push	30/10/2026 19:32	DELIVERED	out	
+M00120	U013	In-App	20/11/2026 18:19	read	out	
+M00121	U013	push	23/10/2026 8:24	Read	out	
+M00122	U013	SMS	03/10/2026 21:36	DELIVERED	out	
+M00123	U013	in_app	04/11/2026 11:15	failed	out	
+M00124	U014	in_app	29/10/2026 21:32	failed	out	
+M00125	U014	In-App	09/10/2026 16:01	Read	out	
+M00126	U014	Push Notification	09/11/2026 21:32	DELIVERED	out	
+M00127	U014	in_app	31/10/2026 18:30	Seen	out	
+M00128	U014	SMS	11/11/2026 16:38	failed	out	
+M00129	U014	in_app	19/10/2026 18:26	DELIVERED	out	
+M00130	U014	in_app	27/10/2026 13:27	DELIVERED	out	
+M00131	U015	In-App	21/11/2026 10:17	DELIVERED	out	
+M00132	U015	In-App	23/11/2026 19:10	Read	out	
+M00133	U015	SMS	21/10/2026 15:35	read	out	
+M00134	U015	SMS	21/10/2026 16:05	received	in	stop sending messages
+M00135	U015	In-App	22/11/2026 19:41	failed	out	
+M00136	U015	SMS	26/11/2026 11:55	Seen	out	
+M00137	U015	In-App	25/10/2026 16:05	DELIVERED	out	
+M00138	U015	In-App	10/11/2026 19:02	Seen	out	
+M00139	U015	In-App	08/11/2026 19:01	Read	out	
+M00140	U015	WhatsApp	12/10/2026 18:27	Seen	out	
+M00141	U015	WhatsApp	27/10/2026 19:47	Seen	out	
+M00142	U015	SMS	25/11/2026 13:35	read	out	
+M00143	U016	In-App	14/10/2026 9:00	DELIVERED	out	
+M00144	U016	whatsapp	17/11/2026 8:00	Seen	out	
+M00145	U016	whatsapp	17/11/2026 9:05	received	in	job interview next week hai, bahut tension 😟
+M00146	U016	push	25/11/2026 13:52	failed	out	
+M00147	U016	in_app	25/10/2026 11:16	DELIVERED	out	
+M00148	U017	SMS	04/11/2026 18:54	failed	out	
+M00149	U017	whatsapp	09/10/2026 13:31	failed	out	
+M00150	U017	in_app	30/10/2026 8:31	read	out	
+M00151	U017	SMS	31/10/2026 17:48	read	out	
+M00152	U018	whatsapp	05/11/2026 11:20	Read	out	
+M00153	U018	whatsapp	26/11/2026 18:20	DELIVERED	out	
+M00154	U018	in_app	20/10/2026 21:42	DELIVERED	out	
+M00155	U018	in_app	03/10/2026 20:31	failed	out	
+M00156	U018	whatsapp	24/11/2026 21:44	Seen	out	
+M00157	U018	whatsapp	24/11/2026 22:05	received	in	aaj ka din kaisa rahega 🙏
+M00158	U018	SMS	18/10/2026 16:24	Seen	out	
+M00159	U018	whatsapp	24/11/2026 18:34	Seen	out	
+M00160	U018	Push Notification	07/10/2026 8:52	Read	out	
+M00161	U018	Push Notification	07/10/2026 9:05	received	in	aaj ka din kaisa rahega 🙏
+M00162	U018	whatsapp	03/10/2026 17:25	DELIVERED	out	
+M00163	U018	Push Notification	02/10/2026 13:55	DELIVERED	out	
+M00164	U018	In-App	04/10/2026 9:36	read	out	
+M00165	U019	In-App	03/11/2026 18:58	failed	out	
+M00166	U019	SMS	19/11/2026 9:53	Seen	out	
+M00167	U019	SMS	19/11/2026 10:05	received	in	what does my nakshatra mean?
+M00168	U019	In-App	02/11/2026 21:37	Read	out	
+M00169	U019	push	15/10/2026 12:24	Read	out	
+M00170	U019	Push Notification	26/11/2026 20:39	failed	out	
+M00171	U019	SMS	17/10/2026 14:14	DELIVERED	out	
+M00172	U019	in_app	03/11/2026 17:50	Read	out	
+M00173	U019	SMS	16/10/2026 10:53	failed	out	
+M00174	U019	SMS	18/10/2026 8:22	failed	out	
+M00175	U019	whatsapp	30/10/2026 12:04	failed	out	
+M00176	U020	In-App	12/11/2026 15:01	Read	out	
+M00177	U020	In-App	12/11/2026 16:05	received	in	loan ka EMI bhar nahi pa raha, worried
+M00178	U020	push	08/11/2026 9:28	DELIVERED	out	
+M00179	U020	in_app	26/11/2026 10:53	failed	out	
+M00180	U020	push	28/10/2026 14:06	DELIVERED	out	
+M00181	U020	WhatsApp	02/11/2026 18:42	DELIVERED	out	
+M00182	U020	push	22/10/2026 16:13	Read	out	
+M00183	U020	SMS	05/11/2026 15:54	Read	out	
+M00184	U020	In-App	19/10/2026 9:22	Read	out	
+M00185	U021	In-App	20/10/2026 9:29	Read	out	
+M00186	U021	Push Notification	14/11/2026 13:58	read	out	
+M00187	U021	Push Notification	14/11/2026 14:05	received	in	aaj mera lucky number kya hai, khelna hai
+M00188	U021	Push Notification	20/10/2026 10:27	read	out	
+M00189	U021	push	08/10/2026 10:02	Read	out	
+M00190	U021	In-App	03/10/2026 13:55	DELIVERED	out	
+M00191	U021	whatsapp	29/10/2026 13:14	Read	out	
+M00192	U021	whatsapp	11/11/2026 19:54	Seen	out	
+M00193	U021	In-App	08/11/2026 9:34	read	out	
+M00194	U021	In-App	21/11/2026 13:53	Seen	out	
+M00195	U021	push	17/11/2026 14:35	failed	out	
+M00196	U021	WhatsApp	25/11/2026 9:13	DELIVERED	out	
+M00197	U021	push	15/11/2026 21:51	Seen	out	
+M00198	U022	SMS	24/10/2026 14:48	read	out	
+M00199	U022	in_app	03/10/2026 18:06	failed	out	
+M00200	U022	whatsapp	04/10/2026 20:29	read	out	
+M00201	U022	In-App	11/11/2026 21:13	read	out	
+M00202	U022	push	01/11/2026 9:33	Seen	out	
+M00203	U022	SMS	14/10/2026 12:20	failed	out	
+M00204	U022	WhatsApp	26/10/2026 18:30	read	out	
+M00205	U022	in_app	10/11/2026 18:49	read	out	
+M00206	U022	WhatsApp	26/10/2026 18:48	DELIVERED	out	
+M00207	U022	in_app	27/10/2026 13:53	read	out	
+M00208	U023	In-App	04/11/2026 19:56	Read	out	
+M00209	U023	push	11/11/2026 10:06	Read	out	
+M00210	U023	push	11/11/2026 11:05	received	in	mat bhejo
+M00211	U023	In-App	16/11/2026 9:13	DELIVERED	out	
+M00212	U023	WhatsApp	24/10/2026 17:21	Seen	out	
+M00213	U024	WhatsApp	24/11/2026 20:39	failed	out	
+M00214	U024	Push Notification	16/10/2026 17:29	failed	out	
+M00215	U024	Push Notification	10/11/2026 15:18	Seen	out	
+M00216	U024	in_app	18/11/2026 15:33	DELIVERED	out	
+M00217	U024	In-App	10/10/2026 13:57	DELIVERED	out	
+M00218	U024	WhatsApp	29/10/2026 13:59	failed	out	
+M00219	U024	whatsapp	02/10/2026 18:17	failed	out	
+M00220	U024	push	06/11/2026 18:48	Read	out	
+M00221	U025	In-App	23/11/2026 21:45	Seen	out	
+M00222	U025	In-App	23/11/2026 22:05	received	in	kundli matching chahiye
+M00223	U025	SMS	14/11/2026 12:44	DELIVERED	out	
+M00224	U025	Push Notification	30/10/2026 10:45	failed	out	
+M00225	U025	In-App	30/10/2026 11:09	DELIVERED	out	
+M00226	U025	push	26/11/2026 15:23	DELIVERED	out	
+M00227	U026	SMS	09/10/2026 19:21	Read	out	
+M00228	U026	SMS	09/10/2026 20:05	received	in	which colour is good today
+M00229	U026	In-App	23/11/2026 10:45	Seen	out	
+M00230	U026	WhatsApp	16/10/2026 21:05	read	out	
+M00231	U026	WhatsApp	24/11/2026 13:09	read	out	
+M00232	U026	SMS	13/11/2026 20:14	read	out	
+M00233	U026	SMS	13/11/2026 21:05	received	in	which colour is good today
+M00234	U026	WhatsApp	08/11/2026 16:47	read	out	
+M00235	U026	whatsapp	20/11/2026 17:51	DELIVERED	out	
+M00236	U026	In-App	03/11/2026 9:06	Seen	out	
+M00237	U027	In-App	12/11/2026 8:40	failed	out	
+M00238	U027	SMS	03/10/2026 9:44	Seen	out	
+M00239	U027	In-App	06/10/2026 18:31	Seen	out	
+M00240	U027	push	26/10/2026 21:27	Seen	out	
+M00241	U027	push	18/11/2026 19:45	failed	out	
+M00242	U027	In-App	18/11/2026 11:46	failed	out	
+M00243	U027	WhatsApp	04/10/2026 13:47	DELIVERED	out	
+M00244	U027	whatsapp	10/10/2026 18:47	Read	out	
+M00245	U027	whatsapp	10/10/2026 19:05	received	in	mera lucky number kya hai
+M00246	U028	WhatsApp	15/11/2026 14:02	read	out	
+M00247	U028	whatsapp	28/10/2026 13:28	DELIVERED	out	
+M00248	U028	push	18/11/2026 8:16	failed	out	
+M00249	U028	whatsapp	26/11/2026 21:24	read	out	
+M00250	U028	SMS	15/10/2026 12:16	DELIVERED	out	
+M00251	U028	push	20/10/2026 10:28	Seen	out	
+M00252	U028	whatsapp	29/10/2026 12:07	Seen	out	
+M00253	U028	In-App	03/11/2026 18:39	Seen	out	
+M00254	U028	In-App	03/11/2026 19:05	received	in	paise ki bahut tension hai, kuch upay batao
+M00255	U029	SMS	10/10/2026 12:08	failed	out	
+M00256	U029	in_app	03/10/2026 15:35	failed	out	
+M00257	U029	SMS	08/10/2026 21:39	failed	out	
+M00258	U029	push	03/10/2026 14:57	Read	out	
+M00259	U029	In-App	29/10/2026 14:45	failed	out	
+M00260	U030	push	09/11/2026 13:40	Seen	out	
+M00261	U030	push	09/11/2026 14:05	received	in	notifications band karo please
+M00262	U030	push	21/10/2026 20:07	Read	out	
+M00263	U030	in_app	23/10/2026 10:30	failed	out	
+M00264	U030	in_app	15/11/2026 8:42	read	out	
+M00265	U030	Push Notification	20/10/2026 8:06	failed	out	
+M00266	U030	In-App	14/11/2026 19:00	failed	out	
+M00267	U030	Push Notification	03/11/2026 9:15	failed	out	
+M00268	U030	In-App	11/10/2026 9:57	DELIVERED	out	
+M00269	U031	push	02/10/2026 21:32	read	out	
+M00270	U031	WhatsApp	09/10/2026 10:02	read	out	
+M00271	U031	Push Notification	31/10/2026 8:27	Seen	out	
+M00272	U031	push	29/10/2026 21:30	DELIVERED	out	
+M00273	U031	Push Notification	26/10/2026 14:30	failed	out	
+M00274	U031	Push Notification	24/11/2026 14:28	failed	out	
+M00275	U031	SMS	26/10/2026 17:19	failed	out	
+M00276	U031	whatsapp	24/11/2026 11:30	Seen	out	
+M00277	U031	WhatsApp	28/10/2026 10:05	DELIVERED	out	
+M00278	U031	SMS	20/10/2026 13:36	Seen	out	
+M00279	U032	Push Notification	14/10/2026 20:09	Seen	out	
+M00280	U032	Push Notification	14/10/2026 21:05	received	in	naukri kab lagegi? pareshan hoon
+M00281	U032	push	29/10/2026 20:38	failed	out	
+M00282	U032	whatsapp	09/11/2026 21:14	Seen	out	
+M00283	U032	WhatsApp	05/10/2026 11:18	read	out	
+M00284	U032	whatsapp	23/10/2026 18:01	failed	out	
+M00285	U032	WhatsApp	10/11/2026 20:55	Seen	out	
+M00286	U032	WhatsApp	15/11/2026 9:44	DELIVERED	out	
+M00287	U032	WhatsApp	03/10/2026 17:11	Read	out	
+M00288	U032	in_app	30/10/2026 19:14	failed	out	
+M00289	U032	Push Notification	03/10/2026 20:24	DELIVERED	out	
+M00290	U033	in_app	17/11/2026 11:08	DELIVERED	out	
+M00291	U033	Push Notification	26/10/2026 21:09	Read	out	
+M00292	U033	Push Notification	26/10/2026 22:05	received	in	kundli matching chahiye
+M00293	U033	whatsapp	11/11/2026 20:35	DELIVERED	out	
+M00294	U033	in_app	15/10/2026 17:44	read	out	
+M00295	U033	Push Notification	01/11/2026 19:44	read	out	
+M00296	U033	Push Notification	01/11/2026 20:05	received	in	kundli matching chahiye
+M00297	U033	in_app	07/11/2026 15:02	failed	out	
+M00298	U033	whatsapp	21/11/2026 10:48	DELIVERED	out	
+M00299	U033	SMS	16/10/2026 10:14	Seen	out	
+M00300	U033	SMS	02/10/2026 19:43	Read	out	
+M00301	U033	in_app	06/10/2026 19:40	DELIVERED	out	
+M00302	U034	in_app	26/10/2026 9:36	DELIVERED	out	
+M00303	U034	In-App	03/11/2026 14:45	read	out	
+M00304	U034	Push Notification	13/10/2026 16:12	DELIVERED	out	
+M00305	U034	in_app	11/11/2026 12:40	DELIVERED	out	
+M00306	U034	Push Notification	23/11/2026 21:39	DELIVERED	out	
+M00307	U034	WhatsApp	20/11/2026 15:25	DELIVERED	out	
+M00308	U034	in_app	08/11/2026 13:57	DELIVERED	out	
+M00309	U034	whatsapp	25/10/2026 18:15	failed	out	
+M00310	U034	push	12/11/2026 11:27	Read	out	
+M00311	U034	push	08/10/2026 13:32	Read	out	
+M00312	U035	WhatsApp	20/10/2026 16:27	DELIVERED	out	
+M00313	U035	Push Notification	31/10/2026 14:16	Seen	out	
+M00314	U035	Push Notification	11/11/2026 13:42	DELIVERED	out	
+M00315	U035	WhatsApp	17/11/2026 11:18	failed	out	
+M00316	U035	In-App	05/10/2026 12:07	Seen	out	
+M00317	U035	In-App	05/10/2026 13:05	received	in	mera lucky number kya hai
+M00318	U035	push	04/10/2026 13:46	Read	out	
+M00319	U035	whatsapp	04/10/2026 8:39	failed	out	
+M00320	U036	Push Notification	12/11/2026 12:37	Read	out	
+M00321	U036	Push Notification	12/11/2026 13:05	received	in	loan ka EMI bhar nahi pa raha, worried
+M00322	U036	Push Notification	03/10/2026 14:53	failed	out	
+M00323	U036	Push Notification	05/11/2026 12:59	DELIVERED	out	
+M00324	U036	in_app	22/10/2026 8:02	DELIVERED	out	
+M00325	U036	push	28/10/2026 12:33	failed	out	
+M00326	U036	Push Notification	23/11/2026 12:48	DELIVERED	out	
+M00327	U036	SMS	06/10/2026 16:48	read	out	
+M00328	U036	in_app	25/10/2026 20:29	failed	out	
+M00329	U037	in_app	23/10/2026 12:57	read	out	
+M00330	U037	SMS	26/10/2026 11:03	failed	out	
+M00331	U037	Push Notification	08/11/2026 12:37	DELIVERED	out	
+M00332	U037	in_app	15/11/2026 12:50	failed	out	
+M00333	U037	SMS	06/11/2026 19:15	failed	out	
+M00334	U037	push	14/10/2026 9:26	Read	out	
+M00335	U037	push	14/10/2026 10:05	received	in	aaj mera lucky number kya hai, khelna hai
+M00336	U037	in_app	23/10/2026 18:31	Seen	out	
+M00337	U038	in_app	18/10/2026 13:23	Seen	out	
+M00338	U038	WhatsApp	22/10/2026 10:55	failed	out	
+M00339	U038	Push Notification	07/11/2026 11:28	DELIVERED	out	
+M00340	U038	Push Notification	13/10/2026 12:21	Read	out	
+M00341	U038	whatsapp	19/11/2026 8:25	DELIVERED	out	
+M00342	U039	WhatsApp	20/10/2026 13:39	Seen	out	
+M00343	U039	Push Notification	03/10/2026 13:53	Read	out	
+M00344	U039	push	19/11/2026 17:11	Read	out	
+M00345	U039	Push Notification	22/11/2026 12:15	DELIVERED	out	
+M00346	U039	push	04/11/2026 19:53	DELIVERED	out	
+M00347	U040	push	23/11/2026 14:46	Seen	out	
+M00348	U040	push	30/10/2026 19:23	read	out	
+M00349	U040	SMS	29/10/2026 12:11	Seen	out	
+M00350	U040	push	03/11/2026 18:22	Seen	out	
+M00351	U040	push	20/11/2026 18:02	read	out	
+M00352	U040	push	23/10/2026 10:27	Read	out	
+M00353	U040	push	23/10/2026 11:05	received	in	job interview next week hai, bahut tension 😟
+M00354	U040	In-App	02/11/2026 15:38	Read	out	
+M00355	U041	whatsapp	16/10/2026 11:30	read	out	
+M00356	U041	in_app	26/11/2026 16:27	failed	out	
+M00357	U041	SMS	06/11/2026 10:26	Seen	out	
+M00358	U041	WhatsApp	21/11/2026 19:39	Read	out	
+M00359	U041	In-App	05/10/2026 9:03	DELIVERED	out	
+M00360	U041	In-App	08/11/2026 10:56	failed	out	
+M00361	U041	in_app	23/11/2026 8:15	read	out	
+M00362	U042	WhatsApp	18/10/2026 19:49	read	out	
+M00363	U042	in_app	28/10/2026 19:51	Read	out	
+M00364	U042	in_app	28/10/2026 20:05	received	in	which colour is good today
+M00365	U042	whatsapp	11/10/2026 20:14	DELIVERED	out	
+M00366	U042	push	27/10/2026 8:06	DELIVERED	out	
+M00367	U042	WhatsApp	31/10/2026 14:49	failed	out	
+M00368	U042	in_app	14/10/2026 13:24	Seen	out	
+M00369	U042	SMS	13/11/2026 15:22	Read	out	
+M00370	U042	push	03/11/2026 12:06	failed	out	
+M00371	U042	in_app	15/11/2026 10:55	failed	out	
+M00372	U043	SMS	31/10/2026 9:20	DELIVERED	out	
+M00373	U043	in_app	31/10/2026 19:43	read	out	
+M00374	U043	In-App	20/11/2026 18:55	read	out	
+M00375	U043	In-App	20/11/2026 19:05	received	in	mera lucky number kya hai
+M00376	U043	In-App	11/11/2026 14:40	Seen	out	
+M00377	U044	Push Notification	20/11/2026 19:48	Read	out	
+M00378	U044	WhatsApp	18/11/2026 15:44	Read	out	
+M00379	U044	whatsapp	21/10/2026 8:33	read	out	
+M00380	U044	whatsapp	21/10/2026 9:05	received	in	paise ki bahut tension hai, kuch upay batao
+M00381	U044	in_app	06/10/2026 13:29	Seen	out	
+M00382	U044	in_app	06/10/2026 14:05	received	in	loan ka EMI bhar nahi pa raha, worried
+M00383	U044	in_app	11/11/2026 20:27	read	out	
+M00384	U045	whatsapp	15/11/2026 15:11	DELIVERED	out	
+M00385	U045	Push Notification	12/11/2026 12:29	Read	out	
+M00386	U045	in_app	01/11/2026 20:40	Seen	out	
+M00387	U045	in_app	01/11/2026 21:05	received	in	aaj mera lucky number kya hai, khelna hai
+M00388	U045	Push Notification	15/10/2026 11:38	DELIVERED	out	
+M00389	U045	push	29/10/2026 20:13	Seen	out	
+M00390	U045	push	29/10/2026 21:05	received	in	kal match hai
+M00391	U045	push	05/10/2026 21:40	DELIVERED	out	
+M00392	U045	SMS	23/10/2026 12:00	Read	out	
+M00393	U045	in_app	02/10/2026 20:31	failed	out	
+M00394	U046	SMS	08/11/2026 15:10	failed	out	
+M00395	U046	push	16/11/2026 14:10	read	out	
+M00396	U046	push	16/11/2026 15:05	received	in	notifications band karo please
+M00397	U046	SMS	23/10/2026 8:23	Seen	out	
+M00398	U046	SMS	11/10/2026 16:52	read	out	
+M00399	U046	Push Notification	21/10/2026 18:44	Read	out	
+M00400	U046	SMS	19/10/2026 9:34	DELIVERED	out	
+M00401	U046	push	11/10/2026 11:38	DELIVERED	out	
+M00402	U046	push	23/11/2026 12:33	Seen	out	
+M00403	U047	push	11/10/2026 20:26	DELIVERED	out	
+M00404	U047	In-App	31/10/2026 17:11	Read	out	
+M00405	U047	In-App	03/10/2026 20:18	Seen	out	
+M00406	U047	in_app	15/10/2026 18:41	read	out	
+M00407	U047	in_app	15/10/2026 19:05	received	in	mat bhejo
+M00408	U047	WhatsApp	18/10/2026 11:50	DELIVERED	out	
+M00409	U047	push	05/11/2026 10:18	failed	out	
+M00410	U047	WhatsApp	05/10/2026 13:13	read	out	
+M00411	U047	WhatsApp	05/10/2026 14:05	received	in	mat bhejo
+M00412	U047	In-App	01/11/2026 9:34	read	out	
+M00413	U047	Push Notification	23/10/2026 16:15	Read	out	
+M00414	U047	WhatsApp	03/10/2026 9:26	Seen	out	
+M00415	U047	Push Notification	16/11/2026 11:36	Seen	out	
+M00416	U047	In-App	05/10/2026 18:10	Seen	out	
+M00417	U047	In-App	05/10/2026 19:05	received	in	stop sending messages
+M00418	U048	Push Notification	28/10/2026 13:32	DELIVERED	out	
+M00419	U048	in_app	19/10/2026 10:40	read	out	
+M00420	U048	in_app	19/10/2026 11:05	received	in	naukri kab lagegi? pareshan hoon
+M00421	U048	whatsapp	26/10/2026 11:14	failed	out	
+M00422	U048	SMS	17/11/2026 8:27	Seen	out	
+M00423	U048	SMS	10/10/2026 8:30	DELIVERED	out	
+M00424	U048	Push Notification	24/10/2026 9:11	failed	out	
+M00425	U048	SMS	31/10/2026 16:49	Seen	out	
+M00426	U048	SMS	15/10/2026 13:43	failed	out	
+M00427	U048	In-App	29/10/2026 11:59	failed	out	
+M00428	U048	in_app	16/11/2026 8:27	failed	out	
+M00429	U048	In-App	19/11/2026 17:57	read	out	
+M00430	U049	whatsapp	03/10/2026 20:56	failed	out	
+M00431	U049	WhatsApp	21/10/2026 11:47	read	out	
+M00432	U049	whatsapp	06/10/2026 12:13	DELIVERED	out	
+M00433	U049	Push Notification	17/11/2026 8:48	Seen	out	
+M00434	U049	Push Notification	17/11/2026 9:05	received	in	kundli matching chahiye
+M00435	U049	whatsapp	05/11/2026 16:15	read	out	
+M00436	U049	whatsapp	05/11/2026 17:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00437	U049	push	10/11/2026 15:12	read	out	
+M00438	U049	push	10/11/2026 16:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00439	U049	push	18/10/2026 12:24	Seen	out	
+M00440	U049	WhatsApp	05/11/2026 21:44	failed	out	
+M00441	U050	WhatsApp	15/11/2026 15:36	Read	out	
+M00442	U050	SMS	14/11/2026 15:59	failed	out	
+M00443	U050	in_app	18/10/2026 10:58	Seen	out	
+M00444	U050	SMS	23/11/2026 8:29	failed	out	
+M00445	U051	In-App	22/11/2026 9:45	Read	out	
+M00446	U051	In-App	24/10/2026 17:40	read	out	
+M00447	U051	SMS	12/11/2026 13:59	read	out	
+M00448	U051	WhatsApp	15/11/2026 19:38	DELIVERED	out	
+M00449	U051	push	07/10/2026 19:17	Seen	out	
+M00450	U051	push	07/10/2026 20:05	received	in	mera lucky number kya hai
+M00451	U051	Push Notification	18/10/2026 12:20	read	out	
+M00452	U051	Push Notification	18/10/2026 13:05	received	in	mera lucky number kya hai
+M00453	U052	In-App	28/10/2026 8:57	read	out	
+M00454	U052	In-App	28/10/2026 9:05	received	in	paise ki bahut tension hai, kuch upay batao
+M00455	U052	SMS	19/10/2026 11:45	Read	out	
+M00456	U052	push	08/10/2026 20:14	Seen	out	
+M00457	U052	Push Notification	08/10/2026 17:21	Read	out	
+M00458	U053	in_app	08/10/2026 21:40	DELIVERED	out	
+M00459	U053	Push Notification	16/11/2026 20:32	DELIVERED	out	
+M00460	U053	SMS	08/10/2026 20:17	Seen	out	
+M00461	U053	push	14/10/2026 13:07	Seen	out	
+M00462	U053	In-App	29/10/2026 10:44	failed	out	
+M00463	U054	in_app	25/11/2026 12:24	Seen	out	
+M00464	U054	in_app	07/11/2026 18:08	failed	out	
+M00465	U054	in_app	26/11/2026 16:27	failed	out	
+M00466	U054	SMS	31/10/2026 16:20	failed	out	
+M00467	U054	In-App	24/11/2026 14:27	DELIVERED	out	
+M00468	U054	WhatsApp	15/10/2026 8:35	failed	out	
+M00469	U054	WhatsApp	01/11/2026 11:50	Read	out	
+M00470	U054	SMS	08/11/2026 11:42	read	out	
+M00471	U055	in_app	05/11/2026 14:10	failed	out	
+M00472	U055	in_app	09/10/2026 14:40	Seen	out	
+M00473	U055	push	10/10/2026 9:15	Read	out	
+M00474	U055	whatsapp	10/10/2026 9:50	DELIVERED	out	
+M00475	U055	SMS	22/10/2026 18:37	DELIVERED	out	
+M00476	U055	WhatsApp	15/10/2026 9:16	failed	out	
+M00477	U055	whatsapp	12/11/2026 9:38	DELIVERED	out	
+M00478	U055	SMS	14/11/2026 16:01	failed	out	
+M00479	U056	In-App	08/10/2026 18:39	DELIVERED	out	
+M00480	U056	WhatsApp	18/10/2026 15:13	Seen	out	
+M00481	U056	SMS	10/11/2026 17:16	failed	out	
+M00482	U056	In-App	19/11/2026 17:39	read	out	
+M00483	U056	push	12/10/2026 8:19	read	out	
+M00484	U056	push	12/10/2026 9:05	received	in	naukri kab lagegi? pareshan hoon
+M00485	U056	push	23/11/2026 20:54	DELIVERED	out	
+M00486	U056	In-App	29/10/2026 13:58	DELIVERED	out	
+M00487	U056	whatsapp	21/11/2026 17:01	Read	out	
+M00488	U057	push	08/10/2026 19:34	failed	out	
+M00489	U057	WhatsApp	06/10/2026 15:36	Read	out	
+M00490	U057	In-App	29/10/2026 14:01	Read	out	
+M00491	U057	In-App	29/10/2026 15:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00492	U057	SMS	26/11/2026 9:14	DELIVERED	out	
+M00493	U057	Push Notification	14/11/2026 9:13	failed	out	
+M00494	U057	whatsapp	14/11/2026 16:00	read	out	
+M00495	U057	whatsapp	14/11/2026 17:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00496	U057	In-App	03/10/2026 8:45	DELIVERED	out	
+M00497	U057	whatsapp	21/11/2026 16:34	read	out	
+M00498	U058	Push Notification	05/11/2026 11:44	Read	out	
+M00499	U058	WhatsApp	11/11/2026 21:03	read	out	
+M00500	U058	WhatsApp	11/11/2026 22:05	received	in	which colour is good today
+M00501	U058	In-App	15/11/2026 17:44	DELIVERED	out	
+M00502	U058	push	05/10/2026 16:04	read	out	
+M00503	U058	SMS	26/10/2026 14:32	failed	out	
+M00504	U058	WhatsApp	02/11/2026 12:59	DELIVERED	out	
+M00505	U058	in_app	13/10/2026 15:38	Seen	out	
+M00506	U058	In-App	14/10/2026 19:08	Read	out	
+M00507	U059	push	06/10/2026 10:04	failed	out	
+M00508	U059	WhatsApp	21/11/2026 18:59	read	out	
+M00509	U059	In-App	04/11/2026 19:00	Seen	out	
+M00510	U059	in_app	27/10/2026 8:25	read	out	
+M00511	U059	in_app	27/10/2026 9:05	received	in	what does my nakshatra mean?
+M00512	U059	WhatsApp	07/10/2026 17:23	read	out	
+M00513	U059	Push Notification	02/10/2026 10:33	Read	out	
+M00514	U059	Push Notification	20/11/2026 14:16	Read	out	
+M00515	U059	Push Notification	20/11/2026 15:05	received	in	what does my nakshatra mean?
+M00516	U059	push	19/11/2026 13:35	read	out	
+M00517	U059	In-App	08/10/2026 17:29	Read	out	
+M00518	U059	In-App	10/11/2026 14:51	failed	out	
+M00519	U060	whatsapp	05/11/2026 18:05	read	out	
+M00520	U060	Push Notification	07/11/2026 14:12	Seen	out	
+M00521	U060	In-App	16/10/2026 13:50	Read	out	
+M00522	U060	SMS	09/10/2026 20:21	Seen	out	
+M00523	U060	push	15/10/2026 19:16	Seen	out	
+M00524	U061	SMS	12/11/2026 12:54	DELIVERED	out	
+M00525	U061	whatsapp	10/10/2026 20:31	Seen	out	
+M00526	U061	WhatsApp	15/11/2026 13:07	failed	out	
+M00527	U061	whatsapp	17/11/2026 15:58	Read	out	
+M00528	U061	push	23/11/2026 14:55	Seen	out	
+M00529	U061	push	23/11/2026 15:05	received	in	kal match hai
+M00530	U061	In-App	14/10/2026 16:02	Read	out	
+M00531	U061	In-App	14/10/2026 17:05	received	in	kal match hai
+M00532	U061	Push Notification	17/10/2026 12:32	Seen	out	
+M00533	U061	WhatsApp	15/11/2026 16:24	DELIVERED	out	
+M00534	U061	push	11/10/2026 8:30	read	out	
+M00535	U061	push	11/10/2026 9:05	received	in	kal match hai
+M00536	U061	whatsapp	17/11/2026 16:31	Read	out	
+M00537	U061	whatsapp	10/10/2026 12:53	DELIVERED	out	
+M00538	U062	In-App	07/10/2026 12:11	Read	out	
+M00539	U062	In-App	07/10/2026 13:05	received	in	notifications band karo please
+M00540	U062	Push Notification	19/10/2026 16:06	failed	out	
+M00541	U062	in_app	28/10/2026 17:22	read	out	
+M00542	U062	in_app	28/10/2026 18:05	received	in	notifications band karo please
+M00543	U062	In-App	05/11/2026 21:46	Seen	out	
+M00544	U062	WhatsApp	26/10/2026 18:25	DELIVERED	out	
+M00545	U062	Push Notification	22/11/2026 16:11	DELIVERED	out	
+M00546	U063	whatsapp	07/10/2026 10:59	Seen	out	
+M00547	U063	push	22/11/2026 9:32	DELIVERED	out	
+M00548	U063	push	20/10/2026 11:41	DELIVERED	out	
+M00549	U063	push	17/10/2026 9:55	Seen	out	
+M00550	U063	SMS	18/11/2026 14:03	Seen	out	
+M00551	U063	whatsapp	19/11/2026 15:51	DELIVERED	out	
+M00552	U063	Push Notification	05/10/2026 13:16	Read	out	
+M00553	U064	In-App	01/11/2026 14:46	DELIVERED	out	
+M00554	U064	whatsapp	15/11/2026 14:43	DELIVERED	out	
+M00555	U064	push	29/10/2026 12:35	Read	out	
+M00556	U064	Push Notification	15/11/2026 12:02	DELIVERED	out	
+M00557	U064	SMS	07/10/2026 15:28	failed	out	
+M00558	U064	whatsapp	07/10/2026 14:36	Seen	out	
+M00559	U064	push	14/11/2026 13:41	Read	out	
+M00560	U064	whatsapp	05/10/2026 15:17	Seen	out	
+M00561	U064	whatsapp	05/10/2026 16:05	received	in	job interview next week hai, bahut tension 😟
+M00562	U064	Push Notification	12/11/2026 16:02	read	out	
+M00563	U064	Push Notification	12/11/2026 17:05	received	in	naukri kab lagegi? pareshan hoon
+M00564	U064	In-App	22/10/2026 13:46	Read	out	
+M00565	U064	SMS	15/11/2026 19:24	failed	out	
+M00566	U064	Push Notification	15/11/2026 20:55	failed	out	
+M00567	U065	whatsapp	28/10/2026 20:20	read	out	
+M00568	U065	Push Notification	24/11/2026 19:23	Read	out	
+M00569	U065	Push Notification	14/10/2026 17:11	Read	out	
+M00570	U065	Push Notification	14/10/2026 18:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00571	U065	In-App	01/11/2026 20:04	Read	out	
+M00572	U065	SMS	13/11/2026 13:10	Seen	out	
+M00573	U066	push	16/11/2026 17:02	read	out	
+M00574	U066	whatsapp	22/10/2026 8:26	DELIVERED	out	
+M00575	U066	whatsapp	22/11/2026 9:53	read	out	
+M00576	U066	WhatsApp	17/11/2026 11:29	Seen	out	
+M00577	U066	whatsapp	05/11/2026 19:09	failed	out	
+M00578	U066	in_app	14/11/2026 11:17	failed	out	
+M00579	U067	SMS	06/11/2026 10:48	Seen	out	
+M00580	U067	SMS	06/11/2026 11:05	received	in	what does my nakshatra mean?
+M00581	U067	In-App	11/11/2026 14:51	Read	out	
+M00582	U067	WhatsApp	06/10/2026 12:43	DELIVERED	out	
+M00583	U067	SMS	11/11/2026 17:01	read	out	
+M00584	U067	SMS	11/11/2026 18:05	received	in	mera lucky number kya hai
+M00585	U067	WhatsApp	03/10/2026 15:25	failed	out	
+M00586	U067	in_app	08/10/2026 8:21	Seen	out	
+M00587	U067	in_app	08/10/2026 9:05	received	in	mera lucky number kya hai
+M00588	U068	push	10/10/2026 13:50	DELIVERED	out	
+M00589	U068	whatsapp	30/10/2026 20:13	Seen	out	
+M00590	U068	whatsapp	10/11/2026 21:52	DELIVERED	out	
+M00591	U068	in_app	23/11/2026 19:40	failed	out	
+M00592	U068	whatsapp	20/10/2026 15:41	failed	out	
+M00593	U068	WhatsApp	17/11/2026 13:55	Seen	out	
+M00594	U069	in_app	16/11/2026 14:29	read	out	
+M00595	U069	SMS	10/10/2026 20:32	DELIVERED	out	
+M00596	U069	push	02/11/2026 17:57	DELIVERED	out	
+M00597	U069	SMS	17/10/2026 19:35	Seen	out	
+M00598	U069	SMS	22/11/2026 12:34	DELIVERED	out	
+M00599	U069	SMS	17/11/2026 11:14	Read	out	
+M00600	U069	Push Notification	14/10/2026 14:53	DELIVERED	out	
+M00601	U069	whatsapp	07/11/2026 14:48	DELIVERED	out	
+M00602	U070	WhatsApp	08/11/2026 13:47	Read	out	
+M00603	U070	in_app	03/11/2026 19:54	DELIVERED	out	
+M00604	U070	SMS	26/11/2026 10:01	failed	out	
+M00605	U070	push	02/10/2026 20:05	failed	out	
+M00606	U070	in_app	16/11/2026 8:51	failed	out	
+M00607	U071	push	12/10/2026 11:35	failed	out	
+M00608	U071	in_app	17/10/2026 8:22	Read	out	
+M00609	U071	in_app	23/11/2026 11:00	DELIVERED	out	
+M00610	U071	in_app	15/10/2026 11:04	read	out	
+M00611	U071	SMS	07/11/2026 20:06	DELIVERED	out	
+M00612	U071	push	08/10/2026 17:31	read	out	
+M00613	U071	push	08/10/2026 18:05	received	in	mat bhejo
+M00614	U071	whatsapp	27/10/2026 19:55	Seen	out	
+M00615	U071	Push Notification	02/11/2026 9:51	DELIVERED	out	
+M00616	U071	In-App	24/10/2026 15:26	Seen	out	
+M00617	U071	Push Notification	20/11/2026 13:07	Read	out	
+M00618	U071	Push Notification	20/11/2026 14:05	received	in	stop sending messages
+M00619	U071	Push Notification	07/10/2026 13:38	DELIVERED	out	
+M00620	U071	push	06/10/2026 9:41	read	out	
+M00621	U072	WhatsApp	22/11/2026 12:36	failed	out	
+M00622	U072	Push Notification	09/10/2026 20:14	read	out	
+M00623	U072	whatsapp	29/10/2026 12:41	Read	out	
+M00624	U072	WhatsApp	28/10/2026 18:17	DELIVERED	out	
+M00625	U072	WhatsApp	07/10/2026 14:11	Read	out	
+M00626	U072	WhatsApp	09/10/2026 14:19	Read	out	
+M00627	U072	WhatsApp	09/10/2026 15:05	received	in	job interview next week hai, bahut tension 😟
+M00628	U072	whatsapp	14/11/2026 8:22	Read	out	
+M00629	U072	whatsapp	14/11/2026 9:05	received	in	naukri kab lagegi? pareshan hoon
+M00630	U072	In-App	18/10/2026 18:47	read	out	
+M00631	U072	Push Notification	11/10/2026 11:13	DELIVERED	out	
+M00632	U073	In-App	30/10/2026 9:39	failed	out	
+M00633	U073	WhatsApp	11/11/2026 12:37	read	out	
+M00634	U073	SMS	22/11/2026 9:56	DELIVERED	out	
+M00635	U073	In-App	17/10/2026 8:35	read	out	
+M00636	U073	whatsapp	05/10/2026 19:54	Seen	out	
+M00637	U074	whatsapp	05/10/2026 12:27	DELIVERED	out	
+M00638	U074	whatsapp	25/11/2026 8:10	Read	out	
+M00639	U074	In-App	20/11/2026 9:54	read	out	
+M00640	U074	SMS	11/10/2026 12:09	DELIVERED	out	
+M00641	U074	in_app	20/10/2026 19:01	DELIVERED	out	
+M00642	U074	whatsapp	12/11/2026 12:54	DELIVERED	out	
+M00643	U074	In-App	22/10/2026 13:49	Seen	out	
+M00644	U074	push	27/10/2026 13:29	Seen	out	
+M00645	U074	push	27/10/2026 14:05	received	in	which colour is good today
+M00646	U075	WhatsApp	11/10/2026 8:24	failed	out	
+M00647	U075	In-App	07/11/2026 16:36	Read	out	
+M00648	U075	push	16/10/2026 17:50	read	out	
+M00649	U075	Push Notification	29/10/2026 21:05	failed	out	
+M00650	U075	whatsapp	01/11/2026 9:12	Read	out	
+M00651	U075	SMS	24/11/2026 21:27	failed	out	
+M00652	U075	whatsapp	18/10/2026 12:58	Read	out	
+M00653	U075	Push Notification	09/10/2026 13:04	DELIVERED	out	
+M00654	U075	push	14/11/2026 10:42	Seen	out	
+M00655	U075	push	14/11/2026 11:05	received	in	what does my nakshatra mean?
+M00656	U075	Push Notification	27/10/2026 13:52	Seen	out	
+M00657	U075	Push Notification	27/10/2026 14:05	received	in	what does my nakshatra mean?
+M00658	U075	push	11/11/2026 18:34	read	out	
+M00659	U076	in_app	17/11/2026 20:19	read	out	
+M00660	U076	SMS	28/10/2026 18:32	read	out	
+M00661	U076	SMS	09/11/2026 20:25	DELIVERED	out	
+M00662	U076	In-App	24/11/2026 21:06	failed	out	
+M00663	U076	WhatsApp	21/10/2026 13:42	read	out	
+M00664	U076	push	13/10/2026 10:08	failed	out	
+M00665	U076	push	24/11/2026 12:52	read	out	
+M00666	U077	in_app	23/11/2026 13:14	DELIVERED	out	
+M00667	U077	WhatsApp	23/10/2026 15:00	failed	out	
+M00668	U077	in_app	24/11/2026 12:49	failed	out	
+M00669	U077	in_app	16/11/2026 16:36	Read	out	
+M00670	U077	WhatsApp	03/10/2026 8:50	DELIVERED	out	
+M00671	U077	in_app	21/11/2026 15:39	failed	out	
+M00672	U078	whatsapp	01/11/2026 19:07	DELIVERED	out	
+M00673	U078	WhatsApp	21/11/2026 13:01	DELIVERED	out	
+M00674	U078	push	27/10/2026 21:16	Read	out	
+M00675	U078	In-App	09/11/2026 14:17	failed	out	
+M00676	U078	push	09/10/2026 16:02	Read	out	
+M00677	U078	push	07/11/2026 16:17	DELIVERED	out	
+M00678	U078	whatsapp	08/10/2026 8:50	Read	out	
+M00679	U078	WhatsApp	09/10/2026 13:19	read	out	
+M00680	U078	whatsapp	25/11/2026 11:55	DELIVERED	out	
+M00681	U078	in_app	02/10/2026 13:28	read	out	
+M00682	U078	push	13/10/2026 20:41	failed	out	
+M00683	U078	in_app	23/10/2026 16:42	Seen	out	
+M00684	U079	WhatsApp	04/10/2026 18:13	read	out	
+M00685	U079	WhatsApp	04/10/2026 19:05	received	in	stop sending messages
+M00686	U079	Push Notification	05/11/2026 17:30	Seen	out	
+M00687	U079	In-App	12/11/2026 16:55	failed	out	
+M00688	U079	SMS	29/10/2026 13:24	DELIVERED	out	
+M00689	U079	SMS	12/10/2026 14:10	read	out	
+M00690	U079	push	30/10/2026 18:48	DELIVERED	out	
+M00691	U079	In-App	21/11/2026 10:11	Read	out	
+M00692	U079	In-App	18/11/2026 8:39	Seen	out	
+M00693	U079	In-App	18/11/2026 9:05	received	in	stop sending messages
+M00694	U079	Push Notification	12/10/2026 14:42	read	out	
+M00695	U079	push	20/10/2026 9:07	read	out	
+M00696	U079	SMS	04/11/2026 14:55	Seen	out	
+M00697	U079	in_app	25/10/2026 15:08	Seen	out	
+M00698	U080	In-App	15/11/2026 10:54	read	out	
+M00699	U080	Push Notification	19/10/2026 10:19	Seen	out	
+M00700	U080	In-App	21/10/2026 8:00	DELIVERED	out	
+M00701	U080	whatsapp	25/10/2026 14:42	read	out	
+M00702	U080	whatsapp	25/10/2026 15:05	received	in	job interview next week hai, bahut tension 😟
+M00703	U081	Push Notification	31/10/2026 15:40	Seen	out	
+M00704	U081	Push Notification	06/10/2026 9:07	read	out	
+M00705	U081	SMS	10/10/2026 9:23	DELIVERED	out	
+M00706	U081	whatsapp	24/10/2026 16:03	DELIVERED	out	
+M00707	U081	SMS	17/10/2026 16:44	read	out	
+M00708	U081	Push Notification	10/10/2026 16:22	Read	out	
+M00709	U081	push	28/10/2026 8:35	failed	out	
+M00710	U081	in_app	21/11/2026 20:00	read	out	
+M00711	U081	in_app	21/11/2026 21:05	received	in	shaadi kab hogi? rishta dekh rahe hain
+M00712	U081	Push Notification	19/11/2026 9:47	DELIVERED	out	
+M00713	U082	In-App	20/10/2026 8:26	Read	out	
+M00714	U082	whatsapp	02/10/2026 21:03	DELIVERED	out	
+M00715	U082	push	31/10/2026 11:37	DELIVERED	out	
+M00716	U082	Push Notification	25/10/2026 17:54	failed	out	
+M00717	U082	WhatsApp	15/10/2026 17:33	failed	out	
+M00718	U082	push	11/10/2026 14:38	Seen	out	
+M00719	U082	whatsapp	05/10/2026 21:29	failed	out	
+M00720	U082	push	02/11/2026 21:58	DELIVERED	out	
+M00721	U082	whatsapp	07/10/2026 16:32	read	out	
+M00722	U083	SMS	14/10/2026 16:16	Seen	out	
+M00723	U083	Push Notification	23/10/2026 20:03	DELIVERED	out	
+M00724	U083	Push Notification	16/11/2026 15:21	failed	out	
+M00725	U083	Push Notification	22/10/2026 10:11	Seen	out	
+M00726	U083	Push Notification	22/10/2026 11:05	received	in	mera lucky number kya hai
+M00727	U083	In-App	11/10/2026 12:01	Read	out	
+M00728	U083	In-App	11/10/2026 13:05	received	in	mera lucky number kya hai
+M00729	U084	Push Notification	15/10/2026 16:16	Seen	out	
+M00730	U084	whatsapp	23/11/2026 20:53	Seen	out	
+M00731	U084	Push Notification	01/11/2026 11:55	Seen	out	
+M00732	U084	WhatsApp	05/11/2026 17:50	Seen	out	
+M00733	U085	WhatsApp	19/10/2026 10:36	read	out	
+M00734	U085	In-App	25/10/2026 21:06	DELIVERED	out	
+M00735	U085	In-App	01/11/2026 18:32	Read	out	
+M00736	U085	SMS	22/10/2026 21:24	read	out	
+M00737	U085	Push Notification	09/11/2026 14:37	read	out	
+M00738	U085	whatsapp	04/10/2026 15:11	read	out	
+M00739	U086	WhatsApp	31/10/2026 19:09	Read	out	
+M00740	U086	In-App	28/10/2026 9:07	failed	out	
+M00741	U086	WhatsApp	18/10/2026 12:54	Read	out	
+M00742	U086	in_app	23/10/2026 18:47	Seen	out	
+M00743	U086	push	21/11/2026 14:55	read	out	
+M00744	U086	push	21/11/2026 15:05	received	in	notifications band karo please
+M00745	U086	whatsapp	04/10/2026 10:02	Seen	out	
+M00746	U086	WhatsApp	20/10/2026 9:50	Seen	out	
+M00747	U086	WhatsApp	13/10/2026 17:47	DELIVERED	out	
+M00748	U086	in_app	10/11/2026 13:01	DELIVERED	out	
+M00749	U086	Push Notification	09/10/2026 15:17	failed	out	
+M00750	U086	SMS	18/10/2026 9:17	Read	out	
+M00751	U086	WhatsApp	10/11/2026 11:13	DELIVERED	out	
+M00752	U087	push	19/11/2026 16:01	DELIVERED	out	
+M00753	U087	In-App	26/10/2026 20:13	DELIVERED	out	
+M00754	U087	push	24/10/2026 9:52	DELIVERED	out	
+M00755	U087	In-App	27/10/2026 17:55	DELIVERED	out	
+M00756	U088	WhatsApp	29/10/2026 13:51	Seen	out	
+M00757	U088	WhatsApp	29/10/2026 14:05	received	in	job interview next week hai, bahut tension 😟
+M00758	U088	SMS	14/10/2026 19:41	Seen	out	
+M00759	U088	push	12/11/2026 12:12	Seen	out	
+M00760	U088	whatsapp	25/11/2026 12:35	Seen	out	
+M00761	U088	push	30/10/2026 18:15	Seen	out	
+M00762	U088	SMS	21/11/2026 20:14	DELIVERED	out	
+M00763	U088	WhatsApp	02/11/2026 10:52	failed	out	
+M00764	U088	SMS	18/11/2026 16:54	failed	out	
+M00765	U089	push	09/10/2026 11:22	failed	out	
+M00766	U089	In-App	20/10/2026 15:19	read	out	
+M00767	U089	In-App	07/10/2026 19:47	Read	out	
+M00768	U089	Push Notification	23/10/2026 20:52	read	out	
+M00769	U089	Push Notification	23/11/2026 16:08	DELIVERED	out	
+M00770	U089	Push Notification	11/10/2026 16:26	Read	out	
+M00771	U089	WhatsApp	13/11/2026 16:54	failed	out	
+M00772	U089	WhatsApp	07/10/2026 12:21	read	out	
+M00773	U089	WhatsApp	29/10/2026 17:23	DELIVERED	out	
+M00774	U089	Push Notification	07/10/2026 14:42	failed	out	
+M00775	U090	Push Notification	16/10/2026 15:56	Seen	out	
+M00776	U090	Push Notification	16/10/2026 16:05	received	in	aaj ka din kaisa rahega 🙏
+M00777	U090	whatsapp	18/10/2026 15:08	DELIVERED	out	
+M00778	U090	whatsapp	22/11/2026 17:25	read	out	
+M00779	U090	whatsapp	22/11/2026 18:05	received	in	aaj ka din kaisa rahega 🙏
+M00780	U090	Push Notification	09/10/2026 21:41	DELIVERED	out	
+M00781	U090	whatsapp	23/10/2026 11:04	read	out	
+M00782	U090	whatsapp	23/10/2026 12:05	received	in	aaj ka din kaisa rahega 🙏
+M00783	U090	whatsapp	23/11/2026 12:05	Read	out	
+M00784	U090	WhatsApp	28/10/2026 11:45	read	out	
+M00785	U090	whatsapp	29/10/2026 21:23	Read	out	
+M00786	U090	push	11/10/2026 16:01	Read	out	
+M00787	U090	in_app	15/11/2026 20:45	Read	out	
+M00788	U090	in_app	15/11/2026 21:05	received	in	aaj ka din kaisa rahega 🙏
+M00789	U090	in_app	04/11/2026 14:23	read	out	
+M00790	U091	whatsapp	10/11/2026 20:10	Read	out	
+M00791	U091	SMS	02/10/2026 10:28	Seen	out	
+M00792	U091	WhatsApp	24/11/2026 13:20	failed	out	
+M00793	U091	whatsapp	30/10/2026 11:45	Seen	out	
+M00794	U091	whatsapp	30/10/2026 12:05	received	in	mera lucky number kya hai
+M00795	U091	SMS	18/10/2026 16:04	Seen	out	
+M00796	U091	WhatsApp	14/11/2026 8:49	failed	out	
+M00797	U091	push	23/10/2026 13:39	read	out	
+M00798	U091	Push Notification	08/10/2026 9:44	Seen	out	
+M00799	U091	In-App	09/10/2026 15:04	DELIVERED	out	
+M00800	U091	push	03/11/2026 9:49	Read	out	
+M00801	U091	in_app	21/11/2026 19:24	failed	out	
+M00802	U091	WhatsApp	05/11/2026 11:17	failed	out	
+M00803	U092	push	14/10/2026 13:13	Seen	out	
+M00804	U092	SMS	06/10/2026 12:25	Seen	out	
+M00805	U092	WhatsApp	02/10/2026 11:55	Read	out	
+M00806	U092	in_app	31/10/2026 19:46	DELIVERED	out	
+M00807	U092	whatsapp	19/11/2026 15:31	Seen	out	
+M00808	U092	In-App	16/11/2026 9:55	failed	out	
+M00809	U092	in_app	10/10/2026 19:25	Seen	out	
+M00810	U093	In-App	02/10/2026 15:26	failed	out	
+M00811	U093	SMS	30/10/2026 17:11	Read	out	
+M00812	U093	Push Notification	07/11/2026 11:10	read	out	
+M00813	U093	whatsapp	22/11/2026 14:28	Read	out	
+M00814	U093	whatsapp	22/11/2026 15:05	received	in	aaj mera lucky number kya hai, khelna hai
+M00815	U093	WhatsApp	28/10/2026 20:43	failed	out	
+M00816	U093	SMS	15/11/2026 17:45	Seen	out	
+M00817	U093	SMS	02/11/2026 19:39	failed	out	
+M00818	U093	SMS	04/11/2026 8:33	DELIVERED	out	
+M00819	U093	whatsapp	28/10/2026 14:47	Read	out	
+M00820	U094	SMS	12/10/2026 9:03	failed	out	
+M00821	U094	whatsapp	12/10/2026 16:38	Read	out	
+M00822	U094	whatsapp	12/10/2026 17:05	received	in	notifications band karo please
+M00823	U094	whatsapp	16/10/2026 11:59	Seen	out	
+M00824	U094	Push Notification	08/11/2026 11:44	DELIVERED	out	
+M00825	U095	in_app	19/10/2026 21:37	failed	out	
+M00826	U095	in_app	12/10/2026 16:48	Read	out	
+M00827	U095	SMS	14/11/2026 20:32	Read	out	
+M00828	U095	Push Notification	11/11/2026 20:51	read	out	
+M00829	U095	Push Notification	08/11/2026 17:01	read	out	
+M00830	U095	Push Notification	08/11/2026 18:05	received	in	stop sending messages
+M00831	U095	SMS	26/10/2026 10:59	DELIVERED	out	
+M00832	U095	In-App	20/11/2026 21:14	failed	out	
+M00833	U095	In-App	05/11/2026 11:50	Read	out	
+M00834	U095	whatsapp	13/11/2026 21:10	DELIVERED	out	
+M00835	U095	whatsapp	27/10/2026 12:35	Seen	out	
+M00836	U095	SMS	02/11/2026 13:00	DELIVERED	out	
+M00837	U096	SMS	22/11/2026 20:43	Seen	out	
+M00838	U096	push	26/11/2026 9:37	Read	out	
+M00839	U096	whatsapp	31/10/2026 8:00	DELIVERED	out	
+M00840	U096	in_app	28/10/2026 19:13	failed	out	
+M00841	U096	WhatsApp	18/10/2026 10:43	DELIVERED	out	
+M00842	U096	WhatsApp	29/10/2026 20:01	DELIVERED	out	
+M00843	U096	WhatsApp	25/11/2026 21:47	DELIVERED	out	
+M00844	U096	Push Notification	27/10/2026 20:26	Read	out	
+M00845	U096	SMS	15/10/2026 18:48	Read	out	
+M00846	U096	SMS	17/11/2026 12:52	DELIVERED	out	
+M00847	U096	in_app	27/10/2026 13:00	failed	out	
+M00848	U097	WhatsApp	15/11/2026 9:31	read	out	
+M00849	U097	WhatsApp	04/10/2026 19:37	failed	out	
+M00850	U097	push	16/11/2026 16:35	failed	out	
+M00851	U097	Push Notification	12/10/2026 20:09	Read	out	
+M00852	U097	whatsapp	05/10/2026 21:03	DELIVERED	out	
+M00853	U097	in_app	21/11/2026 8:55	DELIVERED	out	
+M00854	U097	WhatsApp	06/10/2026 14:13	failed	out	
+M00855	U097	Push Notification	04/10/2026 11:30	DELIVERED	out	
+M00856	U097	whatsapp	24/11/2026 8:28	read	out	
+M00857	U097	WhatsApp	06/10/2026 13:44	Read	out	
+M00858	U097	Push Notification	19/11/2026 21:03	Read	out	
+M00859	U098	whatsapp	17/10/2026 15:18	DELIVERED	out	
+M00860	U098	SMS	11/11/2026 13:09	Read	out	
+M00861	U098	WhatsApp	22/10/2026 10:46	failed	out	
+M00862	U098	whatsapp	03/10/2026 15:53	DELIVERED	out	
+M00863	U098	in_app	13/11/2026 19:27	Read	out	
+M00864	U098	In-App	15/10/2026 15:20	read	out	
+M00865	U098	SMS	05/11/2026 10:41	DELIVERED	out	
+M00866	U099	whatsapp	14/10/2026 18:36	read	out	
+M00867	U099	Push Notification	26/10/2026 13:56	failed	out	
+M00868	U099	In-App	24/10/2026 19:15	failed	out	
+M00869	U099	push	21/10/2026 14:49	read	out	
+M00870	U099	In-App	18/11/2026 9:08	Read	out	
+M00871	U099	WhatsApp	26/11/2026 17:31	read	out	
+M00872	U099	whatsapp	11/11/2026 17:12	failed	out	
+M00873	U099	push	16/10/2026 21:28	Seen	out	
+M00874	U099	push	25/10/2026 13:53	Read	out	
+M00875	U099	WhatsApp	23/10/2026 17:44	Seen	out	
+M00876	U099	In-App	23/11/2026 21:59	failed	out	
+M00877	U100	in_app	05/10/2026 16:12	read	out	
+M00878	U100	In-App	23/11/2026 14:05	read	out	
+M00879	U100	WhatsApp	21/11/2026 11:42	failed	out	
+M00880	U100	SMS	14/10/2026 9:51	read	out	
+M00881	U100	Push Notification	23/11/2026 21:30	read	out	
+M00882	U100	push	28/10/2026 16:57	Seen	out	
+M00883	U100	SMS	22/10/2026 16:40	Read	out	
+M00884	U100	In-App	24/10/2026 11:46	Seen	out	
+M00885	U100	SMS	19/10/2026 14:41	DELIVERED	out	
+M00886	U100	whatsapp	16/10/2026 21:21	read	out	
+M00887	U100	whatsapp	16/10/2026 22:05	received	in	paise ki bahut tension hai, kuch upay batao
+M00888	U100	push	02/10/2026 10:12	Seen	out	
+M00889	U100	whatsapp	14/10/2026 12:51	failed	out	

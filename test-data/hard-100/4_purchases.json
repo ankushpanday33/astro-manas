@@ -1,0 +1,260 @@
+[
+ {
+  "customer_id": "U002",
+  "purchased_at": "21/11/2026",
+  "product": "planet_puja",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U008",
+  "purchased_at": "12/10/2026",
+  "product": "planet_puja",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U009",
+  "purchased_at": "23/09/2026",
+  "product": "Kundli Report PDF",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U009",
+  "purchased_at": "01/10/2026",
+  "product": "Kundli Report PDF",
+  "amount": 501
+ },
+ {
+  "customer_id": "U016",
+  "purchased_at": "16/11/2026",
+  "product": "Kundli Report PDF",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U016",
+  "purchased_at": "08/11/2026",
+  "product": "planet_puja",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U017",
+  "purchased_at": "31/10/2026",
+  "product": "topic_reading",
+  "amount": 501
+ },
+ {
+  "customer_id": "U017",
+  "purchased_at": "08/09/2026",
+  "product": "planet_puja",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U018",
+  "purchased_at": "27/10/2026",
+  "product": "topic_reading",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U024",
+  "purchased_at": "15/11/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U032",
+  "purchased_at": "18/11/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U033",
+  "purchased_at": "22/09/2026",
+  "product": "Kundli Report PDF",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U042",
+  "purchased_at": "16/09/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U042",
+  "purchased_at": "18/10/2026",
+  "product": "planet_puja",
+  "amount": ""
+ },
+ {
+  "customer_id": "U048",
+  "purchased_at": "29/10/2026",
+  "product": "planet_puja",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U048",
+  "purchased_at": "23/09/2026",
+  "product": "topic_reading",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U056",
+  "purchased_at": "20/11/2026",
+  "product": "topic_reading",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U056",
+  "purchased_at": "18/10/2026",
+  "product": "astrologer_consult",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U056",
+  "purchased_at": "23/09/2026",
+  "product": "astrologer_consult",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U057",
+  "purchased_at": "12/11/2026",
+  "product": "planet_puja",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U057",
+  "purchased_at": "20/09/2026",
+  "product": "astrologer_consult",
+  "amount": 501
+ },
+ {
+  "customer_id": "U058",
+  "purchased_at": "11/11/2026",
+  "product": "planet_puja",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U065",
+  "purchased_at": "23/09/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U066",
+  "purchased_at": "21/09/2026",
+  "product": "Kundli Report PDF",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U066",
+  "purchased_at": "02/10/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U066",
+  "purchased_at": "07/11/2026",
+  "product": "planet_puja",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U072",
+  "purchased_at": "14/11/2026",
+  "product": "topic_reading",
+  "amount": "₹299"
+ },
+ {
+  "customer_id": "U072",
+  "purchased_at": "06/10/2026",
+  "product": "astrologer_consult",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U072",
+  "purchased_at": "06/11/2026",
+  "product": "Kundli Report PDF",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U074",
+  "purchased_at": "09/10/2026",
+  "product": "topic_reading",
+  "amount": ""
+ },
+ {
+  "customer_id": "U074",
+  "purchased_at": "28/09/2026",
+  "product": "planet_puja",
+  "amount": 501
+ },
+ {
+  "customer_id": "U080",
+  "purchased_at": "08/11/2026",
+  "product": "astrologer_consult",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U081",
+  "purchased_at": "18/10/2026",
+  "product": "topic_reading",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U081",
+  "purchased_at": "22/10/2026",
+  "product": "astrologer_consult",
+  "amount": 501
+ },
+ {
+  "customer_id": "U082",
+  "purchased_at": "26/09/2026",
+  "product": "topic_reading",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U082",
+  "purchased_at": "02/10/2026",
+  "product": "astrologer_consult",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U082",
+  "purchased_at": "29/10/2026",
+  "product": "astrologer_consult",
+  "amount": ""
+ },
+ {
+  "customer_id": "U088",
+  "purchased_at": "13/11/2026",
+  "product": "Kundli Report PDF",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U090",
+  "purchased_at": "26/10/2026",
+  "product": "topic_reading",
+  "amount": 501
+ },
+ {
+  "customer_id": "U090",
+  "purchased_at": "07/11/2026",
+  "product": "Kundli Report PDF",
+  "amount": "199.00"
+ },
+ {
+  "customer_id": "U096",
+  "purchased_at": "07/11/2026",
+  "product": "astrologer_consult",
+  "amount": "₹1,100"
+ },
+ {
+  "customer_id": "U096",
+  "purchased_at": "13/11/2026",
+  "product": "topic_reading",
+  "amount": ""
+ },
+ {
+  "customer_id": "U096",
+  "purchased_at": "06/10/2026",
+  "product": "Kundli Report PDF",
+  "amount": "₹1,100"
+ }
+]
